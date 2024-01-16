@@ -1,7 +1,4 @@
-# 45006
-
-
-# PROJECT 2
+### PROJECT 2
 
 Here are the steps to open the Dashboard:
 
