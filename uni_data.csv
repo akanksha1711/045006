@@ -1,0 +1,2346 @@
+rank,ranking-institution-title,location,Overall scores,Research Quality Score,Industry Score,International Outlook,Research Environment Score,Teaching Score,Number of Studnet,Number of student per staffs,International Student,Female : male ratio
+1,Massachusetts Institute of Technology,United States,94.8,92.2,99.9,89.6,96.5,96,"20,965",10.6,42%,48:52:00
+2,Stanford University,United States,93.4,91.9,100,83.5,91.8,98.2,"21,887",9.6,25%,50:50:00
+3,Harvard University,United States,92.4,95.2,69.8,82.1,93.4,95,"20,185",11.3,39%,47:53:00
+4,"University of California, Berkeley",United States,91.9,95.2,90.6,83.5,92.7,91.1,"16,164",7.1,24%,46:54:00
+5,University of Cambridge,United Kingdom,91.7,86.6,76.7,95.4,94.6,93.8,"11,415",8.2,33%,40 : 60
+5,University of Oxford,United Kingdom,91.7,81.7,89.4,94.5,97.4,93.5,"2,237",6.2,34%,37 : 63
+7,The University of Chicago,United States,91.3,95.8,67.6,79,93.5,91.9,"8,279",8,23%,46:54:00
+8,Tsinghua University,China,90,82.5,99.5,77.7,95.2,93.2,"40,921",18.4,24%,52:48:00
+9,Yale University,United States,89.5,86.9,67.8,85.1,89.3,96.1,"13,482",5.9,21%,52:48:00
+10,Peking University,China,89.2,74.5,95.4,94,91.8,96.3,"18,545",11.2,61%,40 : 60
+11,London School of Economics and Political Science,United Kingdom,87.8,81.9,68.1,95.7,94.5,85.9,"21,781",4.5,38%,n/a
+12,University of Pennsylvania,United States,87.5,86.9,71.4,74.9,89.2,92.2,"21,665",14.8,41%,33 : 67
+13,Northwestern University,United States,86.8,86.2,77.2,79.8,89.4,88,"15,366",6,36%,47:53:00
+14,Columbia University,United States,86.5,79.2,77.3,87.7,87.8,92,"21,453",6.3,23%,53:47:00
+15,National University of Singapore,Singapore,85.7,79.7,97.9,80.4,95.9,79.9,"17,584",4.7,29%,53:47:00
+16,ETH Zurich,Switzerland,83.5,87.1,99.5,96.4,83.1,75.2,"38,324",11.6,10%,n/a
+17,New York University,United States,83.3,75.7,68.6,89.3,90.6,82.2,"31,994",10.3,19%,n/a
+18,Duke University,United States,82.8,80.2,100,83,87.5,77.7,"77,468",25.8,26%,56:44:00
+19,"University of California, Los Angeles",United States,81.2,79.2,67.5,75.8,86.4,80.9,"32,337",19.8,25%,51:49:00
+20,Cornell University,United States,81.1,80.7,67.5,78.2,84.1,81,"24,027",10.3,26%,51:49:00
+21,University of Michigan-Ann Arbor,United States,80.8,81.1,74.7,73.1,85.6,78.7,"42,434",9.7,16%,56:44:00
+22,Erasmus University Rotterdam,Netherlands,78.3,81.7,75.7,89,85.1,65.5,"36,790",10.3,60%,59:41:00
+23,UCL,United Kingdom,76.7,80.2,67.4,94.5,80.3,66,"45,912",8.2,17%,50:50:00
+24,University of Toronto,Canada,75,77.3,67.9,92,76.8,67.2,"36,337",9.8,42%,57:43:00
+25,Shanghai Jiao Tong University,China,74.7,75.6,99.8,86.8,70.5,71.4,"16,091",4.2,24%,52:48:00
+26,University of Warwick,United Kingdom,73.7,83.5,66,95.9,65.9,68.1,"19,175",13.2,20%,51:49:00
+27,Technical University of Munich,Germany,73.2,79.8,99.3,80.3,71.7,63.8,"47,727",10.8,18%,55:45:00
+28,Copenhagen Business School,Denmark,72,86.4,53.5,83.8,71.1,60.2,"14,305",12.9,47%,44:56:00
+28,The University of Tokyo,Japan,72,50.2,100,47,85.6,79.4,"32,845",11.8,47%,62:38:00
+30,The Hong Kong University of Science and Technology,Hong Kong,71.4,78.5,100,89.8,70.3,57.4,"33,960",40.6,36%,37 : 63
+31,University of Manchester,United Kingdom,71.3,80.4,68.1,95.6,65.8,62.7,"18,087",18.2,43%,54:46:00
+32,Carnegie Mellon University,United States,71,84.8,68.8,88,68.5,57.4,"37,030",11.3,28%,48:52:00
+33,"University of California, San Diego",United States,70.6,85.1,100,75.6,64.9,59.4,"35,003",34.2,19%,61:39:00
+34,University of Minnesota,United States,70.2,77.3,82,56.5,72.8,64.3,"49,588",23.8,47%,58:42:00
+35,University of British Columbia,Canada,69.9,77,71.4,95.6,69.1,56.9,"28,965",11.8,52%,63:37:00
+36,LMU Munich,Germany,69,66.4,97.1,72.8,72.7,62.7,"24,651",15.1,25%,48:52:00
+37,University of Mannheim,Germany,68.6,71.4,93,63.4,71.6,61.6,"11,120",11.9,73%,55:45:00
+38,"Nanyang Technological University, Singapore",Singapore,68.4,77.4,100,86.8,63.3,56.6,"28,826",24.7,40%,33 : 67
+39,University of Hong Kong,Hong Kong,68.3,80.1,72.5,97.6,65.1,52.6,"26,112",10.5,15%,n/a
+40,Tilburg University,Netherlands,68.1,72.3,99.7,81.4,67.7,57.1,"56,452",18.9,34%,55:45:00
+41,University of Melbourne,Australia,67.8,74.7,79.2,93.9,65.5,55.1,"11,641",12.3,62%,30 : 70
+42,Fudan University,China,67.1,74.1,88,77.1,55.1,67.9,"47,663",36.5,18%,51:49:00
+42,Zhejiang University,China,67.1,82.4,94.8,87,53,59.5,"19,347",13.5,21%,55:45:00
+42,University of Zurich,Switzerland,67.1,80,91,90.2,62.2,51.5,"58,725",42.5,41%,57:43:00
+45,Hong Kong Polytechnic University,Hong Kong,67,92.9,70.9,95.5,55.7,48.5,"18,468",19,21%,n/a
+46,Monash University,Australia,66.4,78.4,73.9,92.6,55.3,59.2,"32,309",12.5,30%,60:40:00
+47,Yonsei University (Seoul campus),South Korea,64.6,77.4,75.8,66.3,57.1,59.9,"16,218",15,22%,51:49:00
+48,City University of Hong Kong,Hong Kong,64.5,76.2,100,99,54.1,51,"48,674",17.4,22%,48:52:00
+48,Dartmouth College,United States,64.5,93.7,67.5,60.6,41,65.7,"8,021",9.9,27%,70:30:00
+50,Michigan State University,United States,64.2,79.8,67.3,71.6,60.9,52.4,"49,171",17.4,10%,53:47:00
+51,University of Southern California,United States,63.9,86.7,69.2,76.6,53.8,51.3,"36,318",11.9,9%,52:48:00
+52,University of Groningen,Netherlands,63.5,79.9,92.1,84.8,58.8,45,"37,478",11.5,8%,42:58:00
+53,University of Bonn,Germany,63.2,63.3,84.9,81.2,64.8,53.3,"41,372",34.2,41%,55:45:00
+54,University of Washington,United States,63,78.7,67.5,78.6,57.3,50.7,"37,035",14.2,44%,55:45:00
+55,Australian National University,Australia,62.9,70.7,67.3,92.4,56.7,53.5,"45,853",19,45%,58:42:00
+56,University of Edinburgh,United Kingdom,62.8,75,67.9,94.7,48.6,57.3,"26,209",15.1,10%,n/a
+57,Chinese University of Hong Kong,Hong Kong,62.6,72.1,69.7,91.8,60.7,47.2,"14,420",7.8,24%,53:47:00
+57,KU Leuven,Belgium,62.6,78.8,100,73.2,58.1,45.7,"9,864",21,32%,n/a
+59,University of St Gallen,Switzerland,62.1,83,84.9,92.2,39.9,56,"15,404",18.6,27%,55:45:00
+59,University of Texas at Austin,United States,62.1,72.6,78.6,47,63.3,54.6,"29,157",14.5,32%,59:41:00
+61,University of Illinois at Urbana-Champaign,United States,61.5,74.5,79.2,67.8,57,51.4,"10,037",10.1,21%,n/a
+62,Lomonosov Moscow State University,,61.4,43.3,76.6,67.7,57.5,76.5,"16,758",14.6,51%,52:48:00
+63,"University of California, Davis",United States,61.2,84.3,76.2,84.6,52,42.9,"37,639",13.1,18%,60:40:00
+64,King’s College London,United Kingdom,61.1,76,31.1,93.9,53.7,50.7,"25,860",28.5,20%,54:46:00
+65,Boston University,United States,60.9,91.3,63.5,81.4,44.1,47,"40,549",12.6,22%,49:51:00
+66,Indiana University,United States,60.8,81,79.8,67.7,53,47.8,"32,532",17.1,13%,62:38:00
+67,University of Wisconsin-Madison,United States,60.5,62.3,70.7,62.9,67,50.1,"46,124",12,16%,n/a
+68,Purdue University West Lafayette,United States,60.2,71.2,69.6,75.8,58.1,47.7,"22,269",9.2,12%,25 : 75
+68,University of Virginia (Main campus),United States,60.2,83.4,67.3,63.6,38.9,61.2,"31,080",7.9,8%,59:41:00
+70,University of Amsterdam,Netherlands,60,75,71.4,90.9,47.3,50.3,"20,299",16.1,31%,31 : 69
+70,The University of Sydney,Australia,60,73.9,78.8,89.2,52.1,45.5,"27,243",10.8,31%,59:41:00
+72,Johns Hopkins University,United States,59.8,68,68.1,88.9,53.1,50.4,"45,133",36.3,40%,47:53:00
+72,Université de Montréal,Canada,59.8,69.9,93.4,85.7,51.9,47.8,"8,429",18,21%,64:36:00
+74,The University of Queensland,Australia,59.7,83.8,77,94.1,53.1,34.3,"18,573",8.1,6%,n/a
+75,University of Nottingham,United Kingdom,59.6,80.5,64.4,96.3,45.5,45.6,"30,009",24.4,28%,52:48:00
+76,University of North Carolina at Chapel Hill,United States,59.4,82.4,67.9,55.2,53,47.1,"25,680",14.6,31%,56:44:00
+76,University of Toulouse,France,59.4,63.2,72.9,84.8,61.4,45.1,"33,648",19.3,20%,60:40:00
+78,Kyoto University,Japan,59.2,48.6,99.7,59.3,61.3,60.4,"19,481",14.7,17%,50:50:00
+79,University of Reading,United Kingdom,59.1,85.2,75.8,94.6,42,42.6,"19,046",28.9,30%,51:49:00
+80,University of Massachusetts,United States,59,72.7,66.6,73.2,46.7,55.2,"31,668",33.9,22%,53:47:00
+80,University of Navarra,Spain,59,73.8,26.1,94.5,38,62.5,"40,701",10,14%,n/a
+82,Lund University,Sweden,58.8,86.1,92.4,66.2,51,37.8,"13,190",4.2,20%,60:40:00
+83,Maastricht University,Netherlands,58.7,69.2,93.8,96.3,45,48.5,"28,540",13.5,41%,59:41:00
+84,Aalto University,Finland,58.6,79.5,82.6,66.9,52.5,41.9,"25,003",13.7,22%,56:44:00
+85,"University of Maryland, College Park",United States,58.5,81.2,67.5,52.2,53.2,46.1,"26,403",29,20%,56:44:00
+86,Western University,Canada,58.2,75.5,90.7,90.9,37,52.1,"34,399",53.2,17%,n/a
+87,HSE University,,58.1,54.7,69.7,49.2,59,61.2,"20,620",27.5,13%,59:41:00
+88,Seoul National University,South Korea,57.7,55.7,100,47.2,59,55.4,"23,102",32.8,32%,49:51:00
+89,McGill University,Canada,57.4,67.9,75.7,94.8,47.7,45.5,"27,210",47.5,17%,56:44:00
+90,University of Surrey,United Kingdom,57,95.4,46.5,98.1,37,35.4,"41,443",13.9,21%,59:41:00
+91,Penn State (Main campus),United States,56.9,72.1,67.6,62.9,53,45.1,"26,497",41.9,23%,62:38:00
+91,Trinity College Dublin,Ireland,56.9,90,67.2,88.3,37.8,38.8,"9,946",10.7,9%,0.929861111
+93,Pompeu Fabra University,Spain,56.8,64.6,63.5,75,52.9,48.1,"44,443",14.9,19%,49:51:00
+94,University of Florida,United States,56.6,79.6,68.8,51.5,56.2,38.1,"11,728",17.2,17%,58:42:00
+95,Texas A&M University,United States,56.4,78.6,69,57.9,57.9,34.3,"36,655",16.9,28%,52:48:00
+96,"City, University of London",United Kingdom,56,73.3,64.4,97.5,42.3,42.5,"5,999",6.7,41%,24 : 76
+97,Nanjing University,China,55.9,79.4,90,71.5,34.9,49.4,"36,426",16.5,8%,54:46:00
+97,UNSW Sydney,Australia,55.9,73.5,93.7,93.1,46.6,35.1,"12,696",3.8,15%,55:45:00
+98,Lancaster University,United Kingdom,55.8,78.5,67.1,96.8,43.4,36.2,"9,099",12.1,62%,54:46:00
+99,Ohio State University (Main campus),United States,55.8,77.4,69.9,71.3,53.6,34,"39,738",50,28%,33 : 67
+100,Aarhus University,Denmark,52.3–55.6,68,93.6,69.7,43.8,37.8,"8,632",10.9,30%,57:43:00
+101,Abu Dhabi University,United Arab Emirates,52.3–55.6,92.8,36.3,95.2,25.8,40.8,"31,545",7.8,22%,54:46:00
+102,University of Alberta,Canada,52.3–55.6,74.8,99.8,95.5,43,32.9,"61,009",12,10%,54:46:00
+103,Arizona State University (Tempe),United States,52.3–55.6,85.2,67.7,72.3,46.8,34,"33,775",16.5,11%,49:51:00
+104,University of Birmingham,United Kingdom,52.3–55.6,86.6,73.9,93.9,38.1,31.1,"23,230",13.1,44%,50:50:00
+105,University of Bologna,Italy,52.3–55.6,64.3,68.1,60.9,45.7,49.7,"45,465",16,13%,52:48:00
+106,Boston College,United States,52.3–55.6,87.8,64.9,66.8,32.1,41,"39,437",35.6,12%,57:43:00
+107,Durham University,United Kingdom,52.3–55.6,82.1,40.6,98,35.9,35.7,"31,820",15,34%,58:42:00
+108,George Washington University,United States,52.3–55.6,84.1,67.5,75.4,35.4,40.5,"21,175",13.7,39%,53:47:00
+109,University of Glasgow,United Kingdom,52.3–55.6,71.3,58.3,93.8,40,41.9,"23,059",15.8,5%,67:33:00
+110,University of Leeds,United Kingdom,52.3–55.6,78.6,67.1,95.5,39.4,35.7,"38,189",20.8,22%,n/a
+111,National Taiwan University (NTU),Taiwan,52.3–55.6,73.2,100,59.4,47.7,41.1,"55,814",11.8,13%,51:49:00
+112,Politecnico di Milano,Italy,52.3–55.6,86.1,95,50.3,46.7,35.4,"20,253",37.2,17%,53:47:00
+113,Queensland University of Technology,Australia,52.3–55.6,82.6,78.3,82.6,40.1,27.5,"31,519",4.2,16%,62:38:00
+114,Universitat Ramon Llull,Spain,52.3–55.6,82.8,25.5,86.7,32,47.9,"62,747",17,19%,65:35:00
+115,University of São Paulo,Brazil,52.3–55.6,51,61.5,30.7,58,53.7,"27,465",14.5,41%,53:47:00
+116,University of Science and Technology of China,China,52.3–55.6,85,89,74.6,34.8,33.1,"26,475",13.5,10%,55:45:00
+117,Sichuan University,China,52.3–55.6,76.9,94.8,63.1,41.9,41,"32,338",21.6,28%,n/a
+118,University of Southampton,United Kingdom,52.3–55.6,92,67.5,98.1,28.6,33.7,"30,221",26,14%,52:48:00
+119,Sungkyunkwan University (SKKU),South Korea,52.3–55.6,55,99,76.1,46.7,49.6,"28,545",11.5,18%,55:45:00
+120,University of Sussex,United Kingdom,52.3–55.6,91.2,66.1,96,38.7,24.5,"29,796",19.8,16%,56:44:00
+121,Tongji University,China,52.3–55.6,81.7,71.9,90.9,36.6,35.5,"14,380",12.8,39%,51:49:00
+122,University of Twente,Netherlands,52.3–55.6,83.1,99.9,90.1,34.6,29.9,"6,440",7.8,15%,49:51:00
+123,University of Vienna,Austria,52.3–55.6,62.7,61.2,91.8,48.3,41.6,"20,505",13.1,46%,55:45:00
+124,Vrije Universiteit Amsterdam,Netherlands,52.3–55.6,76.1,63.4,82.4,48.2,37.1,"35,929",42.9,29%,66:34:00
+125,University of Auckland,New Zealand,49.3–52.2,75.7,68.9,92.2,33.1,32.7,"21,548",13.3,15%,66:34:00
+126,Autonomous University of Barcelona,Spain,49.3–52.2,77.2,51.7,74.9,35,40.9,"44,551",16.9,20%,44:56:00
+127,University of Bath,United Kingdom,49.3–52.2,79.9,49.1,95.3,32.4,33.5,"30,676",61.5,12%,58:42:00
+128,Beihang University,China,49.3–52.2,80.2,88.4,64.6,27.8,37.3,"33,990",14.6,36%,60:40:00
+129,Beijing Institute of Technology,China,49.3–52.2,97.8,55.1,61.9,29.2,35.6,"32,875",15.1,31%,54:46:00
+130,University of Cologne,Germany,49.3–52.2,63.3,94.9,62.4,43.9,37.3,"15,857",32.2,17%,56:44:00
+131,Free University of Berlin,Germany,49.3–52.2,66.4,78,63.5,42.2,38.8,"18,405",21.3,28%,49:51:00
+132,University of Georgia,United States,49.3–52.2,79.7,67.4,40.4,43.9,31.1,"27,481",35.1,31%,50:50:00
+133,Ghent University,Belgium,49.3–52.2,81.5,91.8,53.4,36.4,34.3,"10,934",8.2,20%,51:49:00
+134,Griffith University,Australia,49.3–52.2,80.2,74,86.1,34.8,33.9,"13,401",10.2,23%,n/a
+135,Institut Polytechnique de Paris,France,49.3–52.2,47.3,66.3,83.8,43.5,47,"16,074",8,19%,54:46:00
+136,Lappeenranta-Lahti University of Technology LUT,Finland,49.3–52.2,97.9,49.9,48,34.6,25.9,"24,165",15.9,29%,53:47:00
+137,Loughborough University,United Kingdom,49.3–52.2,77.5,67.8,92.7,30.3,34.3,"36,670",26,24%,58:42:00
+138,Macquarie University,Australia,49.3–52.2,82.5,94.2,88.1,32.2,28.2,"33,093",22.1,32%,56:44:00
+139,University of Malaya,Malaysia,49.3–52.2,65.1,76.8,69.1,38.8,39.2,"25,590",15.1,29%,52:48:00
+140,RMIT University,Australia,49.3–52.2,79.1,75.8,88.9,31.8,30.6,"21,979",17.6,13%,56:44:00
+141,Sant’Anna School of Advanced Studies – Pisa,Italy,49.3–52.2,92,79,47.3,31.4,33.3,"23,754",40.7,10%,58:42:00
+142,University of Sheffield,United Kingdom,49.3–52.2,85,54,92.9,30,30.8,"17,665",14.4,28%,56:44:00
+143,University of Technology Sydney,Australia,49.3–52.2,78,66,89.4,36.8,27.9,"26,575",5.5,11%,55:45:00
+144,University College Dublin,Ireland,49.3–52.2,82.2,63.4,84.9,32.5,28.9,"19,909",18.6,56%,60:40:00
+145,Vanderbilt University,United States,49.3–52.2,69.8,67.4,57.5,30.9,49.5,"33,341",30.4,16%,n/a
+146,Washington University in St Louis,United States,49.3–52.2,82.4,64.8,86.3,30.4,34,"7,068",9.2,28%,43:57:00
+147,The University of Western Australia,Australia,49.3–52.2,82.1,70.7,91.4,30.5,33,"34,928",16,8%,45:55:00
+148,Wuhan University,China,49.3–52.2,88.7,79.4,51.9,27.3,35.2,"10,271",26.2,13%,51:49:00
+149,University of York,United Kingdom,49.3–52.2,62.9,41.4,92.2,39.8,38.4,"25,548",15.3,17%,62:38:00
+150,University of Bayreuth,Germany,47.4–49.2,83.8,86.1,57.4,35.2,27.1,"46,807",16.1,8%,56:44:00
+151,Beijing Normal University,China,47.4–49.2,81.5,75.7,66.4,31.3,31.1,"46,863",14,16%,47:53:00
+152,Cardiff University,United Kingdom,47.4–49.2,74.8,65,87.2,29.3,29.5,"11,399",10,16%,56:44:00
+153,University of Erlangen-Nuremberg,Germany,47.4–49.2,80.1,100,42.3,36.5,30.3,"10,364",7.7,36%,50:50:00
+154,University of Essex,United Kingdom,47.4–49.2,83.3,39.9,97.4,30.3,27.7,"13,329",16.4,20%,34 : 66
+155,Georgia State University,United States,47.4–49.2,72.8,68.2,68.7,31.9,33.5,"50,027",19.6,17%,45:55:00
+156,King Abdulaziz University,Saudi Arabia,47.4–49.2,90.3,37.8,71.2,26,31.3,"20,243",48.1,27%,35 : 65
+157,Korea Advanced Institute of Science and Technology (KAIST),South Korea,47.4–49.2,55.5,82.4,45.1,40.1,46.5,"30,382",30.8,16%,45:55:00
+158,Kyung Hee University,South Korea,47.4–49.2,74.9,96.5,85.3,29,26.5,"25,810",9,13%,53:47:00
+159,University of Newcastle,Australia,47.4–49.2,94.5,41.4,92.1,22.7,23.4,"21,069",12.8,15%,54:46:00
+160,"Northeastern University, US",United States,47.4–49.2,81.6,53.9,80.8,25.1,32.9,"69,831",24.4,12%,56:44:00
+161,Paris Sciences et Lettres – PSL Research University Paris,France,47.4–49.2,52.6,83.6,58.2,46.6,42,"17,764",21,28%,60:40:00
+162,Universiti Putra Malaysia,Malaysia,47.4–49.2,64.3,78.2,81.7,38.2,32,"14,650",14.1,34%,54:46:00
+163,Universiti Sains Malaysia,Malaysia,47.4–49.2,76.1,60.5,63.1,32.7,36.6,"32,625",10,36%,50:50:00
+164,Sejong University,South Korea,47.4–49.2,95.1,61.6,70.4,22.2,27.6,"3,260",10,3%,n/a
+165,University of Southern Denmark,Denmark,47.4–49.2,86.2,65.1,81.4,28.1,24.5,"5,137",8.8,1%,n/a
+166,Stockholm University,Sweden,47.4–49.2,72,82.4,59.2,43.9,27.8,"9,599",6.9,26%,32 : 68
+167,Sun Yat-sen University,China,47.4–49.2,81.2,90.1,57.1,30.8,30.8,"3,722",14.1,27%,53:47:00
+168,Swansea University,United Kingdom,47.4–49.2,97.1,66.7,89,23.8,19.9,"21,211",14.6,36%,48:52:00
+169,Swinburne University of Technology,Australia,47.4–49.2,93.2,61.1,80,22.9,24.9,"66,637",12.6,13%,53:47:00
+170,Technical University of Berlin,Germany,47.4–49.2,70.6,99.2,50.3,39,31.8,"24,523",36,20%,54:46:00
+171,Temple University,United States,47.4–49.2,82.5,60.2,53.5,30.3,34.4,"23,399",19.4,18%,n/a
+172,Tianjin University,China,47.4–49.2,73.2,93.1,57.8,33,35.4,"55,412",15.2,6%,n/a
+173,Ural Federal University,,47.4–49.2,76.3,50,78.5,33,29.1,"3,896",13.6,9%,27 : 73
+174,University of Waikato,New Zealand,47.4–49.2,91.7,73.9,95.4,23.7,21.2,"30,561",69,27%,52:48:00
+175,University of Waterloo,Canada,47.4–49.2,75.4,66.6,84.2,32.5,31,"57,167",16.2,4%,n/a
+176,Worcester Polytechnic Institute,United States,47.4–49.2,98.6,67.2,67.9,21.9,23,"26,350",14.2,36%,55:45:00
+177,University of Adelaide,Australia,46.2–47.3,65.4,52.4,94.7,36.1,27.4,"30,365",20.7,7%,n/a
+178,Aston University,United Kingdom,46.2–47.3,93.6,52.3,91.2,22.2,21.3,"7,684",58.2,13%,n/a
+179,University of Canterbury,New Zealand,46.2–47.3,93.1,58.2,85.2,22.4,19.4,"39,797",17,9%,54:46:00
+180,Université Catholique de Louvain,Belgium,46.2–47.3,54.9,64,70,43.2,35,"62,931",21.3,8%,47:53:00
+181,Curtin University,Australia,46.2–47.3,79.6,67.5,95.9,24,24.9,"45,004",15.8,11%,63:37:00
+182,University of Exeter,United Kingdom,46.2–47.3,84.3,38.8,96.4,27.4,20.9,"31,933",12.7,16%,60:40:00
+183,Free University of Bozen-Bolzano,Italy,46.2–47.3,97.5,19.4,84.9,23.9,19.4,629,7.6,13%,28 : 72
+184,Georgetown University,United States,46.2–47.3,75.7,68.9,51.9,26.4,40.5,"28,014",25.4,7%,n/a
+185,Harbin Institute of Technology,China,46.2–47.3,73.3,65.4,56.7,28,37.8,"11,965",22.4,13%,60:40:00
+186,Huazhong University of Science and Technology,China,46.2–47.3,84.1,85,54.6,24.6,32.9,"27,105",14.3,28%,59:41:00
+187,University of Innsbruck,Austria,46.2–47.3,70.1,87.2,90.5,31.8,26.1,"25,215",11.4,11%,42:58:00
+188,Linköping University,Sweden,46.2–47.3,88,94.2,63.2,32.1,17.6,"16,446",20.6,14%,n/a
+189,North Carolina State University,United States,46.2–47.3,74.2,87.2,46.3,31.2,33.9,"22,673",21.6,20%,29 : 71
+190,Peter the Great St Petersburg Polytechnic University,,46.2–47.3,72.1,24.2,64.6,28.3,40.9,"63,338",13.2,14%,49:51:00
+191,Radboud University Nijmegen,Netherlands,46.2–47.3,83.8,67,64.2,32.1,24.1,"13,205",16.2,44%,58:42:00
+192,University of Rochester,United States,46.2–47.3,68.6,67.3,79.5,28.5,36.3,"19,266",22.6,14%,47:53:00
+193,Sapienza University of Rome,Italy,46.2–47.3,69.9,75.5,41.8,32.7,40.3,"7,274",8.4,33%,50:50:00
+194,University of South Australia,Australia,46.2–47.3,78,94.6,84.6,33,19,"17,009",10.8,16%,53:47:00
+195,Universiti Teknologi Malaysia,Malaysia,46.2–47.3,78.7,67.6,69.7,29.1,31.1,"30,303",43.4,13%,51:49:00
+196,United Arab Emirates University,United Arab Emirates,46.2–47.3,86.9,67.9,83.1,26,22.9,"49,543",15.8,6%,n/a
+197,Universiti Utara Malaysia,Malaysia,46.2–47.3,71.8,44.1,67.2,30.4,39.1,"18,425",14.1,35%,54:46:00
+198,Washington State University,United States,46.2–47.3,75.1,75.7,63.4,30.1,32,"19,060",15.8,39%,57:43:00
+199,University of Wollongong,Australia,46.2–47.3,73.2,94.9,88.8,27.3,25.4,"15,720",16.4,32%,56:44:00
+200,Aalborg University,Denmark,44.3–46.1,72.1,56.7,63.5,36.3,23.6,"13,306",19.7,21%,38 : 62
+201,University of Aberdeen,United Kingdom,44.3–46.1,72.6,67.6,97.5,23.2,28.7,"15,202",12.8,10%,60:40:00
+202,University of Antwerp,Belgium,44.3–46.1,70.3,98,61,34.4,26.8,"24,875",66.6,7%,58:42:00
+203,"Asia University, Taiwan",Taiwan,44.3–46.1,93.4,71.4,59,26.9,18,"33,560",18.7,21%,54:46:00
+204,University of Bern,Switzerland,44.3–46.1,76.7,76.6,74,28.5,25.4,"29,999",20.8,31%,52:48:00
+205,University of Bradford,United Kingdom,44.3–46.1,94,63.7,93.9,20.2,17,"13,630",18.3,27%,64:36:00
+206,University of Bristol,United Kingdom,44.3–46.1,73.1,51.6,91.2,24.2,29.8,"15,940",13.3,25%,58:42:00
+207,"University of California, Irvine",United States,44.3–46.1,60.3,67.5,83.2,31,31.9,"10,240",21,24%,n/a
+208,Carlos III University of Madrid,Spain,44.3–46.1,48.6,70.6,68.5,34.8,43.6,"19,078",8.7,40%,62:38:00
+209,Case Western Reserve University,United States,44.3–46.1,78.8,66.5,71.8,22.4,27.5,"22,298",12.9,15%,62:38:00
+210,Charles University,Czech Republic,44.3–46.1,55,68.5,76.4,35.1,37.2,"20,891",10.7,12%,n/a
+211,Chongqing University,China,44.3–46.1,83.1,70.4,62.9,22.3,27.6,"8,714",39.7,14%,58:42:00
+212,Dalian University of Technology,China,44.3–46.1,92.3,74.2,47.7,21,29.8,"1,823",19,18%,59:41:00
+213,Deakin University,Australia,44.3–46.1,81.9,78.2,90.6,24.5,21.2,"7,268",8.6,10%,0.151388889
+214,Dublin City University,Ireland,44.3–46.1,93.6,55.8,73.2,22.9,18.2,"5,758",24.2,12%,60:40:00
+215,Edith Cowan University,Australia,44.3–46.1,90.4,48.2,96,19.4,18.7,"22,507",15.8,27%,n/a
+216,University of Geneva,Switzerland,44.3–46.1,64.9,74.6,94.2,27.2,27.9,"28,290",49.3,31%,57:43:00
+217,Goethe University Frankfurt,Germany,44.3–46.1,51.9,89,69.3,35.9,33.9,"5,185",19.3,51%,53:47:00
+218,University of Hamburg,Germany,44.3–46.1,65.5,87.4,52.3,38.3,29.4,"10,460",15.4,39%,55:45:00
+219,Hanyang University,South Korea,44.3–46.1,68.8,88.6,67.8,25.9,32.9,"11,993",38.1,91%,57:43:00
+220,University of Huddersfield,United Kingdom,44.3–46.1,85.3,33.3,95,20.2,26.8,"3,244",12.9,43%,54:46:00
+221,University of Iowa,United States,44.3–46.1,75.9,68,58.1,32.1,24.7,"6,083",11.5,20%,n/a
+222,University of Johannesburg,South Africa,44.3–46.1,77.6,65.4,72.1,31.3,22.2,"24,363",29.5,18%,57:43:00
+223,Johannes Kepler University of Linz,Austria,44.3–46.1,79.1,84.7,70.2,24.3,25.4,"12,401",10.9,13%,46:54:00
+224,King Fahd University of Petroleum and Minerals,Saudi Arabia,44.3–46.1,74.4,96.6,73.8,23,26.1,"48,524",29.3,8%,55:45:00
+225,Koç University,Turkey,44.3–46.1,62.5,100,63.1,34.5,26.7,"14,993",39.6,14%,57:43:00
+226,Korea University,South Korea,44.3–46.1,55.6,99.5,76.5,29.6,37.7,"9,084",8.8,35%,77:23:00
+227,University of Lausanne,Switzerland,44.3–46.1,56.4,50,87.3,36.2,33.1,"35,278",37.9,17%,53:47:00
+228,University of Liverpool,United Kingdom,44.3–46.1,68,51.1,96.4,25.2,31,"2,563",24.2,70%,n/a
+229,McMaster University,Canada,44.3–46.1,72.1,87.2,90.9,28.5,23.3,"46,158",10.9,17%,53:47:00
+230,Montpellier University,France,44.3–46.1,91.4,40.6,68.3,25.6,23.6,"3,490",13.2,20%,64:36:00
+231,Nankai University,China,44.3–46.1,76.1,59.5,62.2,20.7,35.8,"1,100",14,19%,41:59:00
+232,Newcastle University,United Kingdom,44.3–46.1,81.3,40.9,91.1,22.6,24.2,"82,010",15.9,4%,47:53:00
+233,University of Nicosia,Cyprus,44.3–46.1,94.4,61,82.5,21.7,18.9,"72,604",28.2,10%,60:40:00
+234,University of Notre Dame,United States,44.3–46.1,81.6,69.3,60.1,24.9,31.2,"9,860",12.2,34%,69:31:00
+235,NOVA University of Lisbon,Portugal,44.3–46.1,77.6,64.8,73.5,28.1,25.2,"39,907",18.6,13%,n/a
+236,University of Otago,New Zealand,44.3–46.1,70.7,46.7,77.1,27.8,30.1,"9,770",12.3,47%,59:41:00
+237,University of Padua,Italy,44.3–46.1,78.3,76.7,52.5,29.4,29.4,"14,960",16.9,36%,53:47:00
+238,University of Pittsburgh-Pittsburgh campus,United States,44.3–46.1,71.6,68.6,55.8,34.9,27.3,"17,790",17.4,37%,55:45:00
+239,Pusan National University,South Korea,44.3–46.1,85.4,81.7,61,22.3,23.8,"3,266",12.5,66%,47:53:00
+240,Queen Mary University of London,United Kingdom,44.3–46.1,78.9,55.8,96.2,24.6,24.9,"9,235",12,13%,68:32:00
+241,Rice University,United States,44.3–46.1,60.8,61.2,70.2,28,40.9,"23,834",23,7%,57:43:00
+242,University of Sharjah,United Arab Emirates,44.3–46.1,97.5,44.1,96.8,20.7,14.7,"17,812",12.4,14%,28 : 72
+243,SOAS University of London,United Kingdom,44.3–46.1,70.2,17.5,88.8,28.4,35,"23,361",21.3,31%,n/a
+244,University of Strathclyde,United Kingdom,44.3–46.1,69.9,55.1,87.7,26.9,29.9,"3,560",15.1,5%,61:39:00
+245,Syracuse University,United States,44.3–46.1,69.1,99.8,52.4,32.6,28.7,"14,284",33.6,23%,57:43:00
+246,Virginia Polytechnic Institute and State University,United States,44.3–46.1,73.8,67.8,59,31.5,30.6,"34,306",23.2,23%,48:52:00
+247,Xiamen University,China,44.3–46.1,81.1,53.3,45.5,24.5,33.7,"29,747",29.5,22%,56:44:00
+248,Xi’an Jiaotong University,China,44.3–46.1,79.2,91.4,64.3,29.2,24.1,"36,033",40.3,22%,58:42:00
+249,York University,Canada,44.3–46.1,72.2,36.4,85.3,31.9,27.7,"17,440",29.1,27%,54:46:00
+250,Zayed University,United Arab Emirates,44.3–46.1,89,17.5,73.9,26.4,23.8,"16,818",14.7,14%,n/a
+251,Amirkabir University of Technology,Iran,41.7–44.2,79.6,89.6,47.1,27.2,17.9,"18,837",17.3,49%,59:41:00
+252,University of Arizona,United States,41.7–44.2,74.4,67.6,40.2,34.5,26.4,"23,728",39.1,15%,75:25:00
+253,"Birkbeck, University of London",United Kingdom,41.7–44.2,74.3,67.9,93.3,19.7,21.8,"14,955",15.4,34%,46:54:00
+254,Bournemouth University,United Kingdom,41.7–44.2,81.6,48.5,88.4,21.1,18.4,"24,416",14.3,10%,n/a
+255,Brunel University London,United Kingdom,41.7–44.2,74.7,64.1,97.5,22.2,22.4,"3,214",10.9,39%,54:46:00
+256,Ca’ Foscari University of Venice,Italy,41.7–44.2,65,88.9,50.4,26.4,29.5,"12,755",14.5,12%,54:46:00
+257,University of Calgary,Canada,41.7–44.2,74.1,77.8,85.2,25.4,18.5,"13,825",18.6,21%,53:47:00
+258,University of Cape Town,South Africa,41.7–44.2,60.4,47.2,67.9,33.7,30.5,"1,015",20.3,17%,60:40:00
+259,University of Central Florida,United States,41.7–44.2,74.5,67.9,43.2,31.3,28.5,"24,515",18.6,14%,53:47:00
+260,University of Colorado Boulder,United States,41.7–44.2,77.4,67.5,48.9,26.9,24.4,"10,785",35.5,26%,n/a
+261,University of Côte d’Azur,France,41.7–44.2,58,19.5,70.4,29.4,37.3,"9,513",13.8,19%,32 : 68
+262,University of East Anglia,United Kingdom,41.7–44.2,80,31.6,94.9,22.9,21.9,"7,284",15.5,9%,56:44:00
+263,Eastern Mediterranean University,Northern Cyprus,41.7–44.2,84.1,60.4,71.5,14.7,24.6,"16,547",27.7,24%,48:52:00
+264,Emory University,United States,41.7–44.2,59.5,67.5,79,21.7,33.8,"43,080",33.9,25%,58:42:00
+265,University of Granada,Spain,41.7–44.2,87.4,51.1,48.1,21,24.2,"41,618",43.7,19%,49:51:00
+266,Heriot-Watt University,United Kingdom,41.7–44.2,68.4,68.5,93.5,23.6,21,"29,365",32.8,12%,58:42:00
+267,University of Hohenheim,Germany,41.7–44.2,79.3,75.4,48.8,28.7,24.8,"1,959",10,37%,32 : 68
+268,Hong Kong Baptist University,Hong Kong,41.7–44.2,75.9,68.9,95.6,15.9,21.1,"30,082",12.7,14%,58:42:00
+269,University of Hull,United Kingdom,41.7–44.2,72.7,59.4,93.6,18.6,26.2,"35,900",32.9,17%,59:41:00
+270,Iowa State University,United States,41.7–44.2,67.6,82.4,44,31.2,28.4,"14,628",10.7,11%,56:44:00
+271,University of Kent,United Kingdom,41.7–44.2,80.5,18,91.4,19.4,21.2,"16,175",11.3,5%,57:43:00
+272,University of Konstanz,Germany,41.7–44.2,54.4,90.2,60.4,36.2,33.2,"28,724",11.3,19%,54:46:00
+273,La Trobe University,Australia,41.7–44.2,77.4,59.2,90.6,24.7,18.8,"3,990",8.8,1%,27 : 73
+274,Lebanese American University,Lebanon,41.7–44.2,93,34.1,79.2,14.9,17.4,"30,856",25.5,12%,59:41:00
+275,Leuphana University of Lüneburg,Germany,41.7–44.2,89.5,35.4,48.7,23.4,23.8,"27,911",22.7,9%,53:47:00
+276,Université Libre de Bruxelles,Belgium,41.7–44.2,63.9,70.3,76.4,32.7,23.9,"33,931",10.6,14%,44:56:00
+277,Lincoln University,New Zealand,41.7–44.2,82.1,24.3,90.3,19.1,24.1,"20,504",17.7,27%,55:45:00
+278,Macau University of Science and Technology,Macao,41.7–44.2,71.7,75.4,90.8,19.3,26.6,"21,663",27.4,33%,63:37:00
+279,University of Miami,United States,41.7–44.2,78.8,67.5,70.6,17.8,25.8,"28,611",16.9,15%,58:42:00
+280,Monterrey Institute of Technology,Mexico,41.7–44.2,72.2,52.9,67.1,19.4,31.2,"15,026",14.4,15%,52:48:00
+281,Norwegian University of Science and Technology,Norway,41.7–44.2,74.7,72.1,53.4,27,25.6,"11,466",14.7,27%,54:46:00
+282,Osaka University,Japan,41.7–44.2,36.1,48,61.7,42.4,45,"3,035",1,3%,67:33:00
+283,University of Ottawa,Canada,41.7–44.2,67.5,61.4,90.2,28.3,23.3,"22,485",10.5,10%,33 : 67
+284,Panthéon-Sorbonne University – Paris 1,France,41.7–44.2,49.3,50.3,67,35.4,39.9,"20,027",34.9,10%,57:43:00
+285,Université Paris-Saclay,France,41.7–44.2,52.6,34.9,65.5,41.4,31.2,"26,556",26.2,17%,59:41:00
+286,University of Passau,Germany,41.7–44.2,66.9,64,55.2,31.6,27.8,"38,441",48.5,15%,50:50:00
+287,University of Plymouth,United Kingdom,41.7–44.2,95.2,48.4,92.9,15.6,16.4,"12,356",20.8,13%,48:52:00
+288,University of Portsmouth,United Kingdom,41.7–44.2,84,50,94,18.7,21.3,"12,933",19.2,55%,67:33:00
+289,University of Rome II – Tor Vergata,Italy,41.7–44.2,64,89.8,53.1,28.9,30.9,"26,981",27.5,31%,54:46:00
+290,Sabancı University,Turkey,41.7–44.2,53.1,97.3,68.6,29.6,33,"18,471",10.2,14%,53:47:00
+291,Shanghai University,China,41.7–44.2,75.5,47.8,63.1,26.4,25.6,"24,907",25.9,8%,56:44:00
+292,Simon Fraser University,Canada,41.7–44.2,69.2,55.8,96.9,24,20.9,"57,951",15.1,5%,49:51:00
+293,University of South Carolina-Columbia,United States,41.7–44.2,85.8,39.2,59.4,23.6,24.8,"17,490",15.4,22%,47:53:00
+294,University of St Andrews,United Kingdom,41.7–44.2,65.4,58.8,95.7,18.6,33,"11,876",29.9,20%,51:49:00
+295,Sumy State University,Ukraine,41.7–44.2,65.1,18.6,55.6,17.2,30.7,"30,153",10.8,12%,46:54:00
+296,Tampere University,Finland,41.7–44.2,86,75.3,32,31.1,16.7,"9,816",14.7,37%,37 : 63
+297,University of Tehran,Iran,41.7–44.2,84.3,78.6,39.3,25.5,24.4,"7,121",10.9,17%,80:20:00
+298,University of Turin,Italy,41.7–44.2,88.8,53.8,42.5,24.3,23.5,"30,967",13.6,8%,48:52:00
+299,University of Turku,Finland,41.7–44.2,82.1,71.6,42.1,29.7,20.8,"36,512",18.5,14%,43:57:00
+300,Uppsala University,Sweden,41.7–44.2,61.7,59.4,50.6,37.9,29,"26,871",23.6,7%,56:44:00
+301,University of Vaasa,Finland,41.7–44.2,89.3,53.1,59,25.3,19.4,"3,926",18.1,60%,51:49:00
+302,Vrije Universiteit Brussel,Belgium,41.7–44.2,70.8,82.4,64.4,29.7,24.1,"70,054",17.4,13%,60:40:00
+303,American University of Sharjah,United Arab Emirates,37.4–41.6,64.6,17.5,95.3,22,16.3,"2,851",10.2,32%,59:41:00
+304,Auckland University of Technology,New Zealand,37.4–41.6,66.5,63.2,91.3,17.9,20.3,"20,285",27.8,46%,64:36:00
+305,Bangor University,United Kingdom,37.4–41.6,62.3,63.8,88.6,16.1,22,"29,327",13.2,12%,61:39:00
+306,University of Barcelona,Spain,37.4–41.6,53.4,50.5,52.5,28.4,31.9,"53,755",22.4,13%,59:41:00
+307,University of Beira Interior,Portugal,37.4–41.6,84.6,64.6,45.4,23.3,21.1,"5,427",13.1,28%,59:41:00
+308,University of Bergamo,Italy,37.4–41.6,82.7,52.4,45.7,21.8,14.6,"3,641",10.8,14%,66:34:00
+309,Bilkent University,Turkey,37.4–41.6,66.6,70.3,56.8,20.3,26.2,"27,393",18,15%,45:55:00
+310,University of Campinas,Brazil,37.4–41.6,49.3,75.4,35.4,33.2,30.6,"9,185",20.1,10%,52:48:00
+311,University of Castilla-La Mancha,Spain,37.4–41.6,85.3,66,40,12.7,19.5,"17,224",3.8,8%,57:43:00
+312,Central Queensland University,Australia,37.4–41.6,67.5,84.9,75.5,24.2,15.2,"16,901",14.8,28%,55:45:00
+313,Chung-Ang University,South Korea,37.4–41.6,55.2,77,74.5,21.6,24.4,"19,304",12.5,14%,51:49:00
+314,University of Coimbra,Portugal,37.4–41.6,73.5,83.1,40.6,25.2,20.5,"2,171",8.6,11%,47:53:00
+315,COMSATS University Islamabad,Pakistan,37.4–41.6,90.3,39.3,50.7,13.9,22,"14,335",15.3,40%,54:46:00
+316,Concordia University,Canada,37.4–41.6,66.1,67.3,83.9,15.9,18.8,"17,027",27.9,36%,65:35:00
+317,Coventry University,United Kingdom,37.4–41.6,77,30.9,94.2,13.7,23.6,"39,380",24,7%,57:43:00
+318,CY Cergy Paris University,France,37.4–41.6,40.1,41.9,93.8,25,32.9,"15,109",26.1,20%,60:40:00
+319,Dalhousie University,Canada,37.4–41.6,70.2,54.6,91.7,20.7,17.2,"32,157",18.1,12%,53:47:00
+320,University of Derby,United Kingdom,37.4–41.6,88.8,17.5,87.1,11.4,16,"5,683",31.1,14%,49:51:00
+321,Drexel University,United States,37.4–41.6,80.9,67.6,76.1,14.9,17,"29,257",11.1,8%,54:46:00
+322,East China Normal University,China,37.4–41.6,64.4,51.7,66.8,24.1,24.8,"4,609",30.3,12%,33 : 67
+323,École des Ponts ParisTech,France,37.4–41.6,50.5,57,89.8,20.4,28.2,"47,512",21.2,7%,60:40:00
+324,Florida International University,United States,37.4–41.6,70.5,67.1,51.7,21.8,19.5,"29,057",29.2,5%,62:38:00
+325,Florida State University,United States,37.4–41.6,71.8,67.8,49.8,28.7,21,"40,179",20.1,15%,54:46:00
+326,University of Galway,Ireland,37.4–41.6,78.8,67.5,65.4,19.5,21.7,"15,224",12.8,12%,30 : 70
+327,University of Gothenburg,Sweden,37.4–41.6,62.4,57.1,50.4,32.1,25.8,"31,322",11.3,5%,n/a
+328,University of Greenwich,United Kingdom,37.4–41.6,86.4,30.1,96.7,13.4,14.4,"18,508",19.7,19%,60:40:00
+329,University of Guelph,Canada,37.4–41.6,67.3,65.7,65.8,20.6,19.8,"10,134",19.8,7%,54:46:00
+330,University of Hawai’i at Mānoa,United States,37.4–41.6,59,65.3,79.7,19.9,22.3,"16,375",9.7,32%,41:59:00
+331,Hebrew University of Jerusalem,Israel,37.4–41.6,53.1,67.4,43.8,30.1,29.8,"37,532",25.4,18%,n/a
+332,Hunan University,China,37.4–41.6,89.3,71.4,44,16.6,22.3,"2,757",22.9,8%,47:53:00
+333,University of Illinois Chicago,United States,37.4–41.6,71.9,62.6,65.4,19.3,22.2,"32,692",23.6,34%,48:52:00
+334,Iran University of Science and Technology,Iran,37.4–41.6,79.2,49.9,30.1,22.2,19.7,"8,065",12.2,34%,35 : 65
+335,ISCTE-University Institute of Lisbon,Portugal,37.4–41.6,68.2,66.1,46,24.8,22.5,"10,798",7.4,7%,60:40:00
+336,James Cook University,Australia,37.4–41.6,64.4,81,76.5,24.1,21.8,"23,490",32.9,21%,58:42:00
+337,Jiangsu University,China,37.4–41.6,85.9,39,69.5,10.8,19.6,"12,150",26,18%,62:38:00
+338,Jinan University,China,37.4–41.6,76,44.8,79.1,17.8,16.4,"25,411",10.6,22%,52:48:00
+339,Jönköping University,Sweden,37.4–41.6,65.9,36,82,25.3,21.6,"16,054",26.5,19%,34 : 66
+340,University of Jyväskylä,Finland,37.4–41.6,78.5,64.9,39.3,27.2,19.7,"15,327",25.6,25%,38 : 62
+341,Universiti Kebangsaan Malaysia,Malaysia,37.4–41.6,46.4,45.2,57.6,30.2,33.6,"5,946",9.1,10%,58:42:00
+342,King Saud University,Saudi Arabia,37.4–41.6,82.8,68.4,71.8,12.4,15.3,"15,855",20.6,6%,54:46:00
+343,Kingston University,United Kingdom,37.4–41.6,65.1,53.8,93.5,15.9,18.8,"18,264",22.9,36%,60:40:00
+344,University of Klagenfurt,Austria,37.4–41.6,84.3,39.7,79.7,17.3,19.9,"15,526",37.1,18%,34 : 66
+345,Kyushu University,Japan,37.4–41.6,70.1,61.3,48.6,31.6,22.6,"35,641",12.5,8%,54:46:00
+346,Université Laval,Canada,37.4–41.6,64.1,71.7,78.8,25.1,25.2,"27,308",16.7,4%,n/a
+347,University of Lincoln,United Kingdom,37.4–41.6,88,17.8,87.4,12.6,13.9,"9,878",9.5,17%,0.725
+348,University of Lisbon,Portugal,37.4–41.6,61.8,63.9,45.5,27.8,22.3,"17,925",20.8,20%,59:41:00
+349,University of Luxembourg,Luxembourg,37.4–41.6,61.9,39.1,90.8,27.7,24.5,"20,936",24.6,21%,55:45:00
+350,Lviv Polytechnic National University,Ukraine,37.4–41.6,29.5,17.7,26.1,8.7,19.1,"9,267",8.7,22%,51:49:00
+351,University of Macau,Macao,37.4–41.6,65.3,68.4,85,28.1,18.6,"11,421",30.3,7%,62:38:00
+352,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,37.4–41.6,81,42.9,71.1,18.2,19.6,"13,159",10,4%,51:49:00
+353,Manchester Metropolitan University,United Kingdom,37.4–41.6,78,67.9,71.4,15.6,16.7,"8,060",16.6,40%,56:44:00
+354,Massey University,New Zealand,37.4–41.6,70.3,65.4,89.7,19.6,20.1,"12,635",20.1,14%,53:47:00
+355,University of Messina,Italy,37.4–41.6,87.3,70.6,50.4,16.1,20.4,"15,133",24.6,7%,46:54:00
+356,Middle East Technical University,Turkey,37.4–41.6,58.1,65.9,59.2,28.9,31.7,"28,451",35.5,0%,33 : 67
+357,Missouri University of Science and Technology,United States,37.4–41.6,76.5,65.8,75.6,18.3,15.9,"11,213",22.2,21%,63:37:00
+358,Nanjing University of Aeronautics and Astronautics,China,37.4–41.6,80.4,81.7,42.4,20,21.7,"56,344",20.4,4%,n/a
+359,Nantes Université,France,37.4–41.6,76.9,18,55.1,21.4,23.4,"7,246",34.5,30%,69:31:00
+360,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,37.4–41.6,61.4,91.5,62.8,24.4,24.2,"15,460",18.2,51%,57:43:00
+361,National Tsing Hua University,Taiwan,37.4–41.6,50.6,91.5,54.3,33,26,"21,808",16.3,12%,57:43:00
+362,"University of Nevada, Las Vegas",United States,37.4–41.6,64.2,67.4,43.1,23.4,26.7,"28,055",14.7,11%,64:36:00
+363,Northumbria University,United Kingdom,37.4–41.6,73.4,29.5,89.8,16.4,19.7,"18,759",30.4,28%,60:40:00
+364,Northwestern Polytechnical University,China,37.4–41.6,69.8,81.4,54.8,22.7,19.7,"3,721",11.5,11%,60:40:00
+365,Otto von Guericke University of Magdeburg,Germany,37.4–41.6,87.7,37,64.2,15,15.5,"10,291",20.6,8%,58:42:00
+366,University of Oulu,Finland,37.4–41.6,87.9,39,44.4,27.1,16.7,"19,366",11.2,10%,63:37:00
+367,Oxford Brookes University,United Kingdom,37.4–41.6,59.1,17.5,84.5,25.7,32.4,"30,542",10.5,6%,n/a
+368,Pontificia Universidad Católica de Chile,Chile,37.4–41.6,62.4,49,61.3,26.9,19.3,"8,782",8.2,6%,70:30:00
+369,University of Pretoria,South Africa,37.4–41.6,63.4,35.9,56.8,26.9,27,"43,110",10.8,3%,39 : 61
+370,Prince Sultan University (PSU),Saudi Arabia,37.4–41.6,76.4,47.1,79,16.3,15,"1,436",7.7,33%,25 : 75
+371,Qatar University,Qatar,37.4–41.6,77,25.7,83.2,25.2,18.7,"12,825",20.1,32%,62:38:00
+372,Quaid-i-Azam University,Pakistan,37.4–41.6,86.9,17.5,50.8,15.2,18.3,"7,891",9.5,7%,54:46:00
+373,Queen’s University,Canada,37.4–41.6,63.8,71.6,79.5,16.9,24.6,"16,705",17,29%,54:46:00
+374,Queen’s University Belfast,United Kingdom,37.4–41.6,74,19.2,95.7,21.8,15.8,"3,029",8.8,22%,58:42:00
+375,"Royal Holloway, University of London",United Kingdom,37.4–41.6,75.6,48.6,93.4,18.7,18.5,"3,181",10.5,2%,49:51:00
+376,Rutgers University – New Brunswick,United States,37.4–41.6,64.8,67.4,65,26,24.4,"7,839",26.1,7%,62:38:00
+377,Sharif University of Technology,Iran,37.4–41.6,67.8,81.9,38.6,28.9,20.8,"21,910",26.8,21%,58:42:00
+378,Shenzhen University,China,37.4–41.6,83,67.1,52.9,17,18.2,"15,815",13.8,29%,41:59:00
+379,South China University of Technology,China,37.4–41.6,73.1,96.5,52.1,20.9,21.4,"18,320",9.8,18%,58:42:00
+380,University of Southern Queensland,Australia,37.4–41.6,73.7,38,70.3,16.5,24.3,"29,561",29.4,20%,54:46:00
+381,Southern University of Science and Technology (SUSTech),China,37.4–41.6,68.1,45.1,67.8,25.6,28,"7,845",15.1,1%,57:43:00
+382,University of South Florida,United States,37.4–41.6,72.7,73.5,70.5,21.7,20.9,"53,319",20.2,2%,55:45:00
+383,South Ural State University,,37.4–41.6,91.3,19.3,60.2,11.4,17.8,"18,046",16.9,5%,56:44:00
+384,University of Stavanger,Norway,37.4–41.6,87.2,33.8,78,16.6,15.5,"31,540",16.6,14%,48:52:00
+385,University of Stirling,United Kingdom,37.4–41.6,70.3,53,87.5,19.1,21.9,"24,038",30.3,20%,56:44:00
+386,Sunway University,Malaysia,37.4–41.6,83.6,18.3,71,11.7,23.5,"10,640",15.1,35%,57:43:00
+387,Università della Svizzera italiana,Switzerland,37.4–41.6,62.3,39.3,96,19.2,19.2,"2,250",10.5,30%,80:20:00
+388,Tallinn University of Technology,Estonia,37.4–41.6,78.2,52.3,62.1,20.6,15.5,"2,757",2.1,1%,76:24:00
+389,University of Tartu,Estonia,37.4–41.6,77.7,61.6,57,23.4,23.1,"2,973",14.3,2%,45:55:00
+390,University of Tasmania,Australia,37.4–41.6,67,36.9,86.1,20.3,21.4,"9,855",16,27%,64:36:00
+391,Tel Aviv University,Israel,37.4–41.6,59.3,67.4,59.1,34.8,24.1,"4,216",4.6,7%,70:30:00
+392,The University of Tennessee-Knoxville,United States,37.4–41.6,77.9,48.1,46.8,25.5,17.4,"25,464",21.6,20%,43:57:00
+393,University of Texas at Dallas,United States,37.4–41.6,61.7,68.8,65.4,31.8,18.1,"11,220",7.5,11%,58:42:00
+394,University of Trento,Italy,37.4–41.6,69.9,51.4,47.7,29.8,20.2,"13,012",15.3,5%,64:36:00
+395,TU Dortmund University,Germany,37.4–41.6,55.5,97.7,40.8,32.5,26.8,"3,873",20,4%,53:47:00
+396,University of Utah,United States,37.4–41.6,79.3,64.3,41,18.5,21.3,"18,621",23.8,4%,64:36:00
+397,Victoria University,Australia,37.4–41.6,51.7,69.1,76.3,26.7,24.7,"8,122",4,10%,54:46:00
+398,University of Victoria,Canada,37.4–41.6,73.5,53.7,93.3,18.6,14.4,"29,463",19.5,7%,54:46:00
+399,Victoria University of Wellington,New Zealand,37.4–41.6,58.4,57.4,82.1,25.2,22.2,"6,769",9.4,14%,71:29:00
+400,Vilnius Gediminas Technical University (Vilnius Tech),Lithuania,37.4–41.6,64,71.4,58.9,21.6,24.3,"4,831",15.7,0%,63:37:00
+401,Western Sydney University,Australia,37.4–41.6,73.1,63,87,18.9,17.9,"2,910",7.2,6%,53:47:00
+402,University of Windsor,Canada,37.4–41.6,83.5,55,90.7,17.4,16.1,"3,500",7.4,1%,56:44:00
+403,University of the Witwatersrand,South Africa,37.4–41.6,63.5,50,59.1,24.6,25.3,"12,015",17.8,25%,48:52:00
+404,Åbo Akademi University,Finland,34.2–37.3,65.8,69.1,59.5,18.4,17.4,"31,877",46.7,2%,55:45:00
+405,American University,United States,34.2–37.3,62.1,64,59.5,15.9,19.5,"4,102",11.8,0%,58:42:00
+406,American University of Beirut,Lebanon,34.2–37.3,63.8,67.3,64.7,15.8,16.3,"6,180",28.7,0%,33 : 67
+407,Anglia Ruskin University (ARU),United Kingdom,34.2–37.3,74.3,17.5,92,11.9,12.4,"8,790",15.7,26%,61:39:00
+408,University of Arkansas,United States,34.2–37.3,64.7,74.9,33.3,21.2,18,"9,734",26.6,12%,47:53:00
+409,Auburn University,United States,34.2–37.3,66.6,72.8,52.5,21.8,19.3,"13,040",17,39%,47:53:00
+410,Baylor University,United States,34.2–37.3,82.4,57,32.9,13.2,21.5,"31,199",17.8,3%,46:54:00
+411,Bond University,Australia,34.2–37.3,56.8,19.3,83.1,16,23.8,"7,113",25.4,1%,46:54:00
+412,University of Brighton,United Kingdom,34.2–37.3,72.6,67.9,87.5,12.7,13.8,"26,902",21.2,3%,58:42:00
+413,Universiti Brunei Darussalam,Brunei Darussalam,34.2–37.3,48.4,25.5,66.3,26.7,22.6,"28,253",13,14%,54:46:00
+414,University at Buffalo,United States,34.2–37.3,68.9,68.9,74.2,14.6,19.9,"6,350",17.6,9%,31 : 69
+415,University of Canberra,Australia,34.2–37.3,58.6,60.8,87.4,22.1,17.6,"29,351",17.7,6%,55:45:00
+416,University of Cape Coast,Ghana,34.2–37.3,81.3,40.8,39.6,18.3,15.9,"61,128",20.3,12%,62:38:00
+417,University of Chile,Chile,34.2–37.3,56.9,69.5,57.2,20,20.4,"27,752",13.6,12%,52:48:00
+418,China University of Petroleum (East China),China,34.2–37.3,88,33.9,27.2,11.8,16.5,"13,808",27.6,4%,63:37:00
+419,Chonnam National University,South Korea,34.2–37.3,57.3,84.1,58.5,19.3,19.6,"6,875",20.1,13%,60:40:00
+420,Chulalongkorn University,Thailand,34.2–37.3,47.2,89,45.1,25.9,24.4,"10,001",13,6%,60:40:00
+421,"Colorado State University, Fort Collins",United States,34.2–37.3,68.6,67,42.2,16.7,18,"13,956",25.4,17%,59:41:00
+422,University of Connecticut,United States,34.2–37.3,61.9,68.5,74.2,19.2,20.3,"21,670",21.9,0%,62:38:00
+423,Covenant University,Nigeria,34.2–37.3,55,28.3,43.4,24.9,34.5,"11,535",20.4,35%,53:47:00
+424,De Montfort University,United Kingdom,34.2–37.3,80.5,38,94.6,11.4,11.2,"35,232",15.4,3%,30 : 70
+425,Donghua University,China,34.2–37.3,58.5,99.1,59.5,21,16.9,"34,637",22.7,1%,63:37:00
+426,University of Dundee,United Kingdom,34.2–37.3,61.4,38.1,94.3,16.5,21.6,"20,507",32.6,5%,61:39:00
+427,Universidade Federal do Rio Grande do Sul,Brazil,34.2–37.3,64.5,67.6,30.9,18.1,24.4,"39,407",23,9%,56:44:00
+428,Universidade Federal de Santa Catarina,Brazil,34.2–37.3,66,35.7,32.5,21.5,23,"4,236",12.6,15%,68:32:00
+429,Ferdowsi University of Mashhad,Iran,34.2–37.3,62.9,86.2,45.1,21.6,19.8,"20,447",23.7,8%,57:43:00
+430,University of Ferrara,Italy,34.2–37.3,75.8,52.5,35.3,17.1,20.2,"34,734",17.3,5%,58:42:00
+431,Florida Atlantic University,United States,34.2–37.3,66.7,68.8,56.2,23.5,16.2,"50,868",18.2,17%,52:48:00
+432,University of Fribourg,Switzerland,34.2–37.3,42.4,59.7,77.3,22.4,28,"20,079",14.6,20%,n/a
+433,George Mason University,United States,34.2–37.3,55.3,63.7,59.8,23.4,25,"32,102",17.5,11%,n/a
+434,University of Ghana,Ghana,34.2–37.3,60.2,47.6,37.6,27.4,22.6,"41,580",18.6,2%,47:53:00
+435,Government College University Faisalabad,Pakistan,34.2–37.3,79.5,64.8,49.1,10.3,13.4,"26,156",17.6,0%,49:51:00
+436,Hasselt University,Belgium,34.2–37.3,56.6,57.8,65.6,24.6,21.8,"6,386",11.5,41%,37 : 63
+437,University of Houston,United States,34.2–37.3,65.9,67.5,49,22.8,18.8,"13,918",22,46%,53:47:00
+438,University of Indonesia,Indonesia,34.2–37.3,31.9,58,56.5,28.5,38.8,"2,148",11.5,16%,65:35:00
+439,Inha University,South Korea,34.2–37.3,67.9,38.7,65.1,15.8,19.1,"16,061",15.7,15%,69:31:00
+440,Jamia Millia Islamia,India,34.2–37.3,73.8,49.1,28.8,11.3,28.3,"28,767",16.7,10%,44:56:00
+441,The University of Jordan,Jordan,34.2–37.3,80.6,55.6,42.9,10.4,17.6,"26,568",13,3%,64:36:00
+442,Keio University,Japan,34.2–37.3,39.8,68.8,44.5,24,35.9,"28,278",44.6,11%,63:37:00
+443,University of Kentucky,United States,34.2–37.3,63.1,67.5,50.1,20.2,16.8,"10,444",14.4,3%,62:38:00
+444,University of Kiel,Germany,34.2–37.3,59.3,33.5,58.2,25.7,23.7,"24,435",9.9,8%,53:47:00
+445,Kwame Nkrumah University of Science and Technology,Ghana,34.2–37.3,60.5,50,47.5,29,18.3,"3,562",10,28%,68:32:00
+446,Lahore University of Management Sciences,Pakistan,34.2–37.3,76.5,46.3,52.5,11.9,23.2,"5,882",19.7,8%,48:52:00
+447,Lehigh University,United States,34.2–37.3,64.3,48.1,72.2,15.1,17.6,"35,795",30.1,2%,60:40:00
+448,Leibniz University Hannover,Germany,34.2–37.3,54.3,78,41.4,29.2,24.8,"36,237",21.5,0%,48:52:00
+449,University of Liège,Belgium,34.2–37.3,61.8,49.5,62.3,23.5,15.1,"21,677",43.7,18%,42:58:00
+450,University of Limerick,Ireland,34.2–37.3,58.7,68.1,56.9,20.7,19.3,"2,492",13.3,44%,51:49:00
+451,Liverpool John Moores University,United Kingdom,34.2–37.3,78.4,41.3,81,11.3,15,"14,480",15.7,13%,55:45:00
+452,Louisiana State University,United States,34.2–37.3,68.1,68.1,45.8,17.7,18,"21,725",17.4,16%,54:46:00
+453,University of Malta,Malta,34.2–37.3,82,17.5,37.3,18.6,17.6,"1,855",14.6,2%,61:39:00
+454,University of Manitoba,Canada,34.2–37.3,57.1,49.9,66,21.9,21.4,"23,383",31.2,12%,56:44:00
+455,Mansoura University,Egypt,34.2–37.3,83.4,37.5,66.7,10.6,17.1,"11,454",28.5,15%,55:45:00
+456,Maynooth University,Ireland,34.2–37.3,69.7,72.2,70,18.2,13.3,"15,905",18.7,50%,58:42:00
+457,Memorial University of Newfoundland,Canada,34.2–37.3,66,63.2,81.7,17.2,13.5,"21,409",26.9,5%,53:47:00
+458,Middlesex University,United Kingdom,34.2–37.3,66.7,30.7,93.7,13.9,18.1,"3,626",11.3,3%,41:59:00
+459,University of Milan,Italy,34.2–37.3,66.1,50,50.2,24.5,15.2,"16,641",36.5,40%,61:39:00
+460,University of Minho,Portugal,34.2–37.3,55,95.9,40.2,24.5,18.6,"66,649",31,11%,59:41:00
+461,Murdoch University,Australia,34.2–37.3,68.1,41.6,91.5,15.6,15.2,"5,016",9.2,31%,40 : 60
+462,Nanjing Forestry University,China,34.2–37.3,77.4,38.3,37.4,16.1,19.4,"24,909",16.8,10%,49:51:00
+463,University of Naples Federico II,Italy,34.2–37.3,68.5,70.5,29.3,19.9,21.8,"3,181",2,9%,69:31:00
+464,National Cheng Kung University (NCKU),Taiwan,34.2–37.3,42.9,95.5,44.4,31.7,21.4,"37,707",15.8,9%,48:52:00
+465,National University of Sciences and Technology,Pakistan,34.2–37.3,75.8,60.3,55,16.5,18.3,"17,952",16.3,4%,70:30:00
+466,National Sun Yat-Sen University,Taiwan,34.2–37.3,52.5,75.7,49.6,25.2,26.7,"10,005",15.2,5%,61:39:00
+467,National Yang Ming Chiao Tung University,Taiwan,34.2–37.3,41.5,98.4,44.5,29.5,25.2,"9,703",69.2,12%,61:39:00
+468,University of Nebraska-Lincoln,United States,34.2–37.3,61.5,53.4,58.4,21.5,16.4,"33,791",21.9,6%,51:49:00
+469,University of New Brunswick UNB,Canada,34.2–37.3,55.9,68.4,86.7,16,15.3,"15,605",17.7,16%,58:42:00
+470,New Jersey Institute of Technology,United States,34.2–37.3,57,67.5,82.2,12.9,18.9,"31,578",16,4%,n/a
+471,Norwegian University of Life Sciences,Norway,34.2–37.3,71.1,26.4,59.3,17.2,23.2,"33,484",16.2,16%,55:45:00
+472,Nottingham Trent University,United Kingdom,34.2–37.3,71.2,26.9,87.4,11.7,20.1,"22,490",16.4,29%,47:53:00
+473,Oklahoma State University,United States,34.2–37.3,75.3,71.1,55.2,15.5,15.5,"2,598",9.2,1%,57:43:00
+474,Old Dominion University,United States,34.2–37.3,75.3,52.1,41.2,17.3,14.7,"2,272",9.1,4%,57:43:00
+475,Parthenope University of Naples,Italy,34.2–37.3,89.5,34,35.5,17.3,16.1,"9,250",16.5,1%,51:49:00
+476,University of Pavia,Italy,34.2–37.3,67.8,67.5,49.1,23.6,19,"3,819",20,10%,38 : 62
+477,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,34.2–37.3,59.2,70.3,34.1,28.2,25.6,"9,219",22.5,2%,25 : 75
+478,University of Porto,Portugal,34.2–37.3,57.5,64,38.9,25.4,23.2,"38,240",14.1,1%,46:54:00
+479,Pukyong National University,South Korea,34.2–37.3,71.3,49.7,53.9,11.1,20.7,"12,948",18.7,9%,63:37:00
+480,Qingdao University,China,34.2–37.3,89.8,30,43.7,11.9,12.7,"40,082",12.7,5%,39 : 61
+481,Université du Québec,Canada,34.2–37.3,53,66.9,67.4,23.5,25.4,"37,484",12.3,4%,36 : 64
+482,Rensselaer Polytechnic Institute,United States,34.2–37.3,54.8,72,80,17.8,23.9,"20,432",10.7,6%,n/a
+483,Roskilde University,Denmark,34.2–37.3,54.1,36.4,52.5,31.1,18.2,"1,325",5.3,8%,60:40:00
+484,University of Salamanca,Spain,34.2–37.3,71.6,48.1,49.9,17.2,19.9,"19,840",17,29%,50:50:00
+485,University of Salento,Italy,34.2–37.3,82.2,48.6,29,17.3,19.5,"8,703",11.4,21%,44:56:00
+486,Shiraz University,Iran,34.2–37.3,76.2,83.7,30.3,18.3,18.9,"20,620",14.9,23%,52:48:00
+487,University of Siegen,Germany,34.2–37.3,60.9,43.6,51.6,21.9,22,"5,021",13.6,16%,38 : 62
+488,Southeast University,China,34.2–37.3,70.9,54.9,52.3,19.8,20.7,"27,353",8.7,12%,n/a
+489,Stevens Institute of Technology,United States,34.2–37.3,65.1,48.7,85.6,14.5,17.4,"27,878",25.3,1%,56:44:00
+490,Stony Brook University,United States,34.2–37.3,58.1,74.6,86.2,18.9,16.3,"14,219",19.2,8%,52:48:00
+491,Tomas Bata University in Zlín,Czech Republic,34.2–37.3,66.4,19.3,59,24.5,21.3,"4,407",12,10%,48:52:00
+492,Ton Duc Thang University,Vietnam,34.2–37.3,88.1,25.3,58.4,11.7,8.3,"58,463",28.4,6%,61:39:00
+493,Toronto Metropolitan University,Canada,34.2–37.3,63,55.5,66.3,25.4,16.5,"10,327",17.7,31%,31 : 69
+494,University of Tunis El Manar,Tunisia,34.2–37.3,59.5,64.5,48.9,20.3,22.3,"18,218",12.6,11%,61:39:00
+495,University of Tuscia,Italy,34.2–37.3,75,66.9,30.9,19,16.4,"4,644",12,2%,51:49:00
+496,University of Udine,Italy,34.2–37.3,76.6,61.5,38,16.7,15.2,"12,457",11.6,30%,79:21:00
+497,Ulsan National Institute of Science and Technology (UNIST),South Korea,34.2–37.3,49.7,79.4,50.6,28.9,24.5,"17,883",18.8,20%,58:42:00
+498,Universiti Malaysia Terengganu (UMT),Malaysia,34.2–37.3,68.9,43,51.8,17.5,17.3,"10,472",17.6,31%,59:41:00
+499,University of Valencia,Spain,34.2–37.3,65.5,59.3,41.1,22.2,25.3,"24,585",15.9,23%,53:47:00
+500,Wake Forest University,United States,34.2–37.3,69.2,57.3,41.6,18.4,19.9,"8,089",10.9,8%,56:44:00
+501,Waseda University,Japan,34.2–37.3,42.3,21.3,47.2,26.4,35,"42,760",15.4,2%,n/a
+502,University of the West of England,United Kingdom,34.2–37.3,79.1,29.2,82.7,13,14.7,"44,036",29.1,28%,55:45:00
+503,The University of Alabama,United States,31.3–34.1,64.2,57.8,29.4,20.6,16.5,"6,180",16.3,24%,52:48:00
+504,University of Alicante,Spain,31.3–34.1,57.3,59.4,41.2,14.7,23,"23,922",23.9,10%,65:35:00
+505,Aligarh Muslim University,India,31.3–34.1,62.7,65.2,34.4,16.8,24.4,"18,491",40.2,4%,56:44:00
+506,Amity University,India,31.3–34.1,79.2,37.2,31.5,10.1,20.8,"16,925",6.8,15%,40 : 60
+507,Athens University of Economics and Business,Greece,31.3–34.1,50.3,61.1,46.4,23.7,19.4,"31,821",12.9,4%,n/a
+508,Autonomous University of Madrid,Spain,31.3–34.1,51.7,72.1,49,18.5,26.2,"35,710",14.2,6%,n/a
+509,Babeş-Bolyai University,Romania,31.3–34.1,71.9,47.3,34.3,13.6,14.1,"22,935",16.6,26%,62:38:00
+510,Banaras Hindu University,India,31.3–34.1,61.3,36.4,23.8,19.5,25.8,"8,400",19.1,30%,57:43:00
+511,Boğaziçi University,Turkey,31.3–34.1,52.2,64.6,44.7,21.5,24.9,"22,723",16.2,4%,65:35:00
+512,University of Brescia,Italy,31.3–34.1,76.5,50.6,40.7,14.3,14,"1,730",15.7,43%,24 : 76
+513,Brno University of Technology,Czech Republic,31.3–34.1,67.8,67.6,58.7,14.6,12.1,"33,342",15.3,1%,37 : 63
+514,Carleton University,Canada,31.3–34.1,50,45.8,79.8,19.6,14.1,"49,787",13.2,22%,62:38:00
+515,University of Catania,Italy,31.3–34.1,60.9,66.2,34,16.2,19.2,"31,723",20.2,20%,56:44:00
+516,Catholic University of Portugal,Portugal,31.3–34.1,60.5,34.6,72.3,16.1,15.8,"30,084",24.7,1%,71:29:00
+517,Changsha University of Science and Technology,China,31.3–34.1,78.8,42.3,37.8,11,11.6,"27,063",36.5,1%,54:46:00
+518,"China University of Petroleum, Beijing",China,31.3–34.1,56.5,40.6,47.4,18.5,18.8,"14,375",27,76%,43:57:00
+519,Complutense University of Madrid,Spain,31.3–34.1,42,49.2,46.3,23,31.8,"1,115",9.9,25%,28 : 72
+520,Cyprus University of Technology,Cyprus,31.3–34.1,72,17.5,56.3,17,15,"108,889",19.8,14%,55:45:00
+521,University of Delaware,United States,31.3–34.1,67.2,54.6,60.6,14.2,16.4,"35,590",23.3,9%,57:43:00
+522,University of Delhi,India,31.3–34.1,42.8,33.1,21.4,24.7,33.8,"6,880",15.6,14%,64:36:00
+523,University of Deusto,Spain,31.3–34.1,57.8,23,40.1,24.5,18.3,"9,215",14.9,39%,66:34:00
+524,Duy Tan University,Vietnam,31.3–34.1,84.3,18.9,55.6,7.9,8.1,"21,219",27.3,0%,46:54:00
+525,East China University of Science and Technology,China,31.3–34.1,70.8,52.4,46.1,12,11.8,"15,045",20.2,44%,57:43:00
+526,University of Eastern Finland,Finland,31.3–34.1,65,50.6,38.6,20.3,14,"22,763",27.4,10%,59:41:00
+527,Edinburgh Napier University,United Kingdom,31.3–34.1,64.9,17.5,88.4,12.8,14.5,"1,808",10,8%,25 : 75
+528,Universidade Estadual Paulista (Unesp),Brazil,31.3–34.1,53.5,56,35,29,17.9,"3,125",46.6,3%,53:47:00
+529,Ewha Womans University,South Korea,31.3–34.1,36.6,50,50.8,25.6,24.5,"9,735",17.9,37%,40 : 60
+530,Financial University under the Government of the Russian Federation,,31.3–34.1,38,46.2,28.7,25.7,32.9,"18,263",8.4,11%,30 : 70
+531,University of Florence,Italy,31.3–34.1,62.8,63.6,40.3,22.1,12.1,"8,358",12.4,62%,67:33:00
+532,Fujian Agriculture and Forestry University,China,31.3–34.1,68.7,50,39.8,18.6,13.7,"12,565",17.2,19%,55:45:00
+533,Universitas Gadjah Mada,Indonesia,31.3–34.1,29.6,50,44.7,30.6,29.4,"10,642",17.9,10%,68:32:00
+534,Glasgow Caledonian University,United Kingdom,31.3–34.1,66.6,61.3,67.5,11.8,14.6,"2,339",13.6,0%,0.765972222
+535,University of Graz,Austria,31.3–34.1,57.4,32.4,65,14.8,25.1,"9,789",27,6%,55:45:00
+536,Université Grenoble Alpes,France,31.3–34.1,55.9,67.4,53.9,18.9,18.6,"1,862",18.1,7%,0.888888889
+537,Guangzhou University,China,31.3–34.1,78.6,23.1,42.8,8.6,15.8,"15,436",33.9,1%,34 : 66
+538,University of Haifa,Israel,31.3–34.1,57.8,67.2,27.2,19.7,20.1,"21,971",17.7,0%,47:53:00
+539,Huaqiao University,China,31.3–34.1,66.4,20.5,86.7,10.1,12.6,"1,556",21.6,84%,43:57:00
+540,Institut Agro,France,31.3–34.1,34.8,63.9,46.4,24.1,28.4,"10,481",11.2,2%,49:51:00
+541,University of Insubria,Italy,31.3–34.1,65.2,56,43.2,15.3,18,"30,473",16.3,0%,30 : 70
+542,The Islamia University of Bahawalpur,Pakistan,31.3–34.1,80.1,18.7,49.9,10,12.5,"7,133",22.5,13%,50:50:00
+543,Istanbul Medipol University,Turkey,31.3–34.1,83.4,17.5,35.7,11.4,11.6,"25,905",14.9,13%,57:43:00
+544,University of Jaén,Spain,31.3–34.1,67.9,38.8,48.4,11.4,17.6,"62,533",26.1,2%,48:52:00
+545,Jagiellonian University,Poland,31.3–34.1,49.1,17.5,37,28.8,20,"3,419",12.8,2%,38 : 62
+546,Karlstad University,Sweden,31.3–34.1,62.9,36.1,65.7,16.3,15.3,"9,170",15.3,16%,59:41:00
+547,Kobe University,Japan,31.3–34.1,32.5,45,44.6,25.1,32.5,"27,216",11.2,4%,57:43:00
+548,Konkuk University,South Korea,31.3–34.1,49.4,25.2,61,18,23.9,"5,759",9.6,12%,53:47:00
+549,Kyungpook National University,South Korea,31.3–34.1,53.3,97.7,55.4,18.9,19,"16,679",15.8,1%,57:43:00
+550,University of Lahore,Pakistan,31.3–34.1,77.1,41.8,51.2,9.7,17.4,"18,568",7.8,14%,29 : 71
+551,Leeds Beckett University,United Kingdom,31.3–34.1,71.6,31.1,63.5,13.8,14.5,"7,057",10.1,19%,52:48:00
+552,University of Leicester,United Kingdom,31.3–34.1,51.2,17.4,85.2,16.2,21.4,"75,291",29.6,14%,60:40:00
+553,Lovely Professional University,India,31.3–34.1,76.4,24.8,38.4,10.2,15.6,"48,404",18.1,18%,53:47:00
+554,Mahidol University,Thailand,31.3–34.1,53.9,71.1,54.3,25.1,15,"22,520",22.2,2%,45:55:00
+555,Universiti Malaysia Sarawak (UNIMAS),Malaysia,31.3–34.1,36.5,94.2,62.1,21.6,21.8,"15,290",24.2,3%,63:37:00
+556,University of Management and Technology,Pakistan,31.3–34.1,76.2,21.4,51.9,8.9,13.2,"17,151",22.5,10%,48:52:00
+557,Marche Polytechnic University,Italy,31.3–34.1,58.3,82,36.3,20.5,17.1,"7,617",22.3,9%,1.011805556
+558,University of Milan-Bicocca,Italy,31.3–34.1,58.9,70.3,39,15.7,18.8,"7,450",26.9,17%,57:43:00
+559,Mizzou - University of Missouri,United States,31.3–34.1,61.3,66.6,50.1,19.1,16.4,"13,711",16.3,11%,41:59:00
+560,Nanjing University of Information Science and Technology,China,31.3–34.1,86.7,26.5,50.9,11.1,9.4,"16,425",14.2,11%,36 : 64
+561,Nanjing Normal University,China,31.3–34.1,75,74.2,40.6,11.7,12.2,"4,148",11.1,21%,61:39:00
+562,National Chengchi University,Taiwan,31.3–34.1,33,89.3,46.3,26.8,27.5,"4,696",11.3,54%,53:47:00
+563,University of North Carolina at Charlotte,United States,31.3–34.1,61.5,66.7,39.9,15.8,18,"22,500",16.2,22%,54:46:00
+564,"Northeastern University, China",China,31.3–34.1,77.3,54.8,37.1,11.7,18.3,"34,095",13.9,4%,28 : 72
+565,North South University,Bangladesh,31.3–34.1,81.3,17.5,55.7,8.4,10.5,"29,925",15.3,21%,57:43:00
+566,North-West University,South Africa,31.3–34.1,75.6,18.1,47.3,11,17.8,"32,319",100.5,6%,57:43:00
+567,Ontario Tech University,Canada,31.3–34.1,65.3,58.3,66.2,17.6,10.5,"16,123",10.7,1%,59:41:00
+568,University of Oregon,United States,31.3–34.1,56.4,50.9,39,26,17.8,"14,900",22.2,19%,52:48:00
+569,University of Pisa,Italy,31.3–34.1,66.2,37.1,39.7,21.9,16.4,"7,944",13,12%,42:58:00
+570,Plekhanov Russian University of Economics,,31.3–34.1,35.1,34.3,51.7,18.8,34.8,"26,289",27.4,3%,54:46:00
+571,Polytechnic University of Valencia,Spain,31.3–34.1,57.6,68.4,51.5,20.9,17.9,"17,741",17.6,22%,55:45:00
+572,Portland State University,United States,31.3–34.1,68.9,59.1,47.4,17.4,12,"15,065",37.9,2%,62:38:00
+573,Prince Sattam Bin Abdulaziz University,Saudi Arabia,31.3–34.1,64,32.9,71.8,11.1,13.1,"12,394",7.4,1%,38 : 62
+574,University of Puerto Rico,Puerto Rico,31.3–34.1,84.4,18.7,50,8.9,8.9,"12,872",45.2,37%,61:39:00
+575,University of the Punjab,Pakistan,31.3–34.1,78.1,39.3,44.9,12.2,15.9,"1,437",13.8,0%,37 : 63
+576,Qassim University,Saudi Arabia,31.3–34.1,43.4,32.8,75.3,16.2,30.4,"4,655",12.8,53%,67:33:00
+577,University of Rhode Island,United States,31.3–34.1,56.8,58.4,55.9,16.9,15.4,"33,025",15.6,5%,55:45:00
+578,University of Rome III,Italy,31.3–34.1,78.2,28.6,37.6,18.9,13,"23,330",16.4,2%,65:35:00
+579,Rowan University,United States,31.3–34.1,74.7,47.2,48,10.4,11.1,"11,089",11.4,11%,58:42:00
+580,RUDN University,,31.3–34.1,50.6,19.5,65.5,16.6,25.6,"6,624",18.6,35%,29 : 71
+581,Rzeszów University of Technology,Poland,31.3–34.1,75.1,21.4,47.6,9.4,14.5,"16,090",17.2,8%,55:45:00
+582,University of Salerno,Italy,31.3–34.1,69.4,45.1,39.9,17.3,15.7,"29,471",14.4,2%,57:43:00
+583,University of Salford,United Kingdom,31.3–34.1,66.8,55.5,82.6,13,10.6,"15,147",21,12%,39 : 61
+584,University of Santiago de Compostela,Spain,31.3–34.1,63.3,33.6,37.5,15.2,19.5,"3,010",4.4,11%,50:50:00
+585,University of Saskatchewan,Canada,31.3–34.1,59.1,74.9,60,18.2,16.4,"16,677",24.9,7%,57:43:00
+586,University of Seville,Spain,31.3–34.1,61.9,29.9,38.7,17.3,23,"15,725",12.7,16%,38 : 62
+587,Shanghai Maritime University,China,31.3–34.1,79.9,24.9,44.2,8.7,12.5,"25,046",74.8,10%,47:53:00
+588,Stellenbosch University,South Africa,31.3–34.1,37.9,61.8,43,27.7,22.9,"6,272",20,4%,54:46:00
+589,University of the Sunshine Coast,Australia,31.3–34.1,58.6,41.2,67.5,17.8,15.9,"12,326",18.5,5%,54:46:00
+590,University of Texas at Arlington,United States,31.3–34.1,59,67.8,49.5,14.7,18.1,"14,377",10.1,10%,58:42:00
+591,Tulane University,United States,31.3–34.1,51.1,69.4,62.6,15.7,18.9,"50,575",14.3,14%,58:42:00
+592,UiT The Arctic University of Norway,Norway,31.3–34.1,71.6,60,46.1,17,11.4,"6,472",14,20%,60:40:00
+593,Umeå University,Sweden,31.3–34.1,51,21.3,57.3,24.1,16.9,"16,106",45.2,25%,55:45:00
+594,University College Cork,Ireland,31.3–34.1,53.2,40.3,53.8,17.7,22.1,"26,472",10.7,4%,63:37:00
+595,Wenzhou University,China,31.3–34.1,73.5,39.3,52.2,11.7,14.2,"22,941",11.9,5%,59:41:00
+596,University of Wuppertal,Germany,31.3–34.1,43.9,72.6,43.3,23.4,21,"24,811",17,1%,71:29:00
+597,Xi’an Jiaotong-Liverpool University,China,31.3–34.1,53.3,17.8,78,16.5,20.4,"44,942",14.1,6%,35 : 65
+598,Yangzhou University,China,31.3–34.1,60.3,84.4,44.1,12.9,18.1,"16,903",21.2,1%,35 : 65
+599,Yeungnam University,South Korea,31.3–34.1,61.7,25.9,51.9,14.6,18.7,"8,593",14.1,2%,88:12:00
+600,Yıldız Technical University,Turkey,31.3–34.1,54.5,84.7,37.9,20.2,22.8,"26,928",11.7,7%,n/a
+601,Zhejiang University of Finance and Economics,China,31.3–34.1,76.4,49.4,37.7,9.7,13.8,"10,314",20.9,0%,32 : 68
+602,Zhejiang Gongshang University,China,31.3–34.1,66.4,41.2,55.2,12.8,22.1,"5,399",17.6,10%,n/a
+603,University of Žilina,Slovakia,31.3–34.1,71.4,29.6,34.3,14,22.1,"46,881",14.8,0%,29 : 71
+604,Adolfo Ibáñez University,Chile,23.0–31.2,43.4,18.1,62.1,9.4,13.4,"8,601",11.6,2%,60:40:00
+605,University of the Aegean,Greece,23.0–31.2,49.3,71.2,30.4,18.2,17,"7,574",14.2,17%,42:58:00
+606,AGH University of Krakow,Poland,23.0–31.2,33.3,61,28,15.6,19.4,"14,292",37.1,7%,61:39:00
+607,Universitas Airlangga,Indonesia,23.0–31.2,35,18.5,47.4,17.2,28,"12,495",11.6,11%,63:37:00
+608,Aix-Marseille University,France,23.0–31.2,36.2,58.7,68.9,17,21.6,"4,468",11.9,76%,53:47:00
+609,University of Alcalá,Spain,23.0–31.2,43.1,34.7,44,11.6,19.3,"10,673",21.2,2%,35 : 65
+610,Al-Farabi Kazakh National University,Kazakhstan,23.0–31.2,32.7,33,52.1,11.8,20,"8,083",20.4,2%,56:44:00
+611,University of Algarve,Portugal,23.0–31.2,63.9,27.5,52,17,11.4,"25,207",19.4,4%,54:46:00
+612,University of Almería,Spain,23.0–31.2,65.1,46.8,37.1,13.7,17.1,"27,512",18.2,10%,50:50:00
+613,Amedeo Avogadro University of Eastern Piedmont,Italy,23.0–31.2,45.4,39.5,45.4,12.9,6.7,"7,350",26.2,0%,61:39:00
+614,American University in Cairo,Egypt,23.0–31.2,29.7,43.7,67.5,23,17.4,"26,449",12.7,0%,54:46:00
+615,"University of the Andes, Colombia",Colombia,23.0–31.2,46.1,35.3,59.4,15.9,22.1,"17,813",47.2,18%,49:51:00
+616,University of Applied Sciences and Arts of Western Switzerland,Switzerland,23.0–31.2,33.1,39.6,82.2,13.4,16.5,"19,573",22.2,1%,44:56:00
+617,Bahçeşehir University,Turkey,23.0–31.2,47.9,38.6,52.8,16.3,17.7,"13,900",8.7,3%,38 : 62
+618,University of the Balearic Islands,Spain,23.0–31.2,53.4,17.7,55.5,8.5,17.8,"29,905",21.6,2%,62:38:00
+619,Bandung Institute of Technology (ITB),Indonesia,23.0–31.2,30.4,33.8,45.2,19.5,17.2,"17,255",17.3,4%,61:39:00
+620,University of Bari Aldo Moro,Italy,23.0–31.2,61.3,20,32,12.1,13.6,"19,700",17.7,7%,55:45:00
+621,Bar-Ilan University,Israel,23.0–31.2,40.8,75.3,40.3,18.2,12.9,"5,698",12,18%,45:55:00
+622,University of the Basque Country,Spain,23.0–31.2,52.2,37.6,36,13.2,17.6,"16,468",20.4,2%,52:48:00
+623,University of Belgrade,Serbia,23.0–31.2,47.4,30.9,30.2,22.3,14.1,"110,645",32.5,3%,42:58:00
+624,Ben-Gurion University of the Negev,Israel,23.0–31.2,38.9,62.6,30.2,17.9,16.6,"67,049",37.3,11%,56:44:00
+625,Bialystok University of Technology,Poland,23.0–31.2,29.3,18.2,29.8,17.8,25.3,"18,231",38.3,10%,64:36:00
+626,BINUS University,Indonesia,23.0–31.2,42.8,23.4,35.7,14,18.6,"8,129",27.9,10%,46:54:00
+627,Birmingham City University,United Kingdom,23.0–31.2,54.7,17.5,93.4,9.1,9.7,"15,245",18.4,22%,51:49:00
+628,University of Bordeaux,France,23.0–31.2,41,63.3,50,14.8,14.4,"15,254",4.9,5%,62:38:00
+629,Bowling Green State University,United States,23.0–31.2,55.9,63.6,39,14,11.5,"28,760",29.7,22%,49:51:00
+630,University of Brasília,Brazil,23.0–31.2,30.7,46.8,26.5,19,25.4,"62,248",36.1,5%,56:44:00
+631,University of Cadiz,Spain,23.0–31.2,50.4,61.2,33.9,11.4,11.2,"15,453",20.7,26%,58:42:00
+632,Cairo University,Egypt,23.0–31.2,57.8,54.2,42.1,12.2,19.5,"40,696",19.9,3%,n/a
+633,University of Calabria,Italy,23.0–31.2,57.5,48.6,39.4,15.8,12.7,"18,101",22.7,22%,n/a
+634,University of Calcutta,India,23.0–31.2,41.8,44.1,19.5,13.3,28.8,"3,273",11.6,25%,59:41:00
+635,"University of California, Riverside",United States,23.0–31.2,44.1,67.4,79.8,15.7,17.6,"21,429",18,19%,58:42:00
+636,University of Campania Luigi Vanvitelli,Italy,23.0–31.2,70.9,51.7,34,7.4,13,"31,792",31.9,0%,58:42:00
+637,University of Carthage,Tunisia,23.0–31.2,47.7,17.8,42.2,7.5,14.8,"33,465",14.8,2%,42:58:00
+638,Università Cattolica del Sacro Cuore,Italy,23.0–31.2,48.6,37.7,43.4,20.2,23.9,"35,592",33.5,34%,50:50:00
+639,University of Central Lancashire,United Kingdom,23.0–31.2,67.9,17.5,70.2,9.7,12.1,"16,847",13.5,10%,56:44:00
+640,Central Michigan University,United States,23.0–31.2,43.5,48.3,39,12.3,13.5,"31,545",13.4,2%,53:47:00
+641,Chaoyang University of Technology,Taiwan,23.0–31.2,57.4,48.8,46.4,11.4,10.6,"8,362",15.5,1%,40 : 60
+642,Chapman University,United States,23.0–31.2,34.9,68.4,45.3,20,19.3,"3,280",16.9,14%,56:44:00
+643,Charles Sturt University,Australia,23.0–31.2,47,68.4,76.2,12.6,13.4,"38,465",15,3%,n/a
+644,Chiang Mai University,Thailand,23.0–31.2,47.3,68.9,41.1,14.1,13.1,"11,196",22.3,3%,0.970833333
+645,Chung Yuan Christian University,Taiwan,23.0–31.2,34.8,53,42.4,14.5,14.8,"24,490",20.2,38%,54:46:00
+646,University of Clermont Auvergne,France,23.0–31.2,38.9,69,71,11.7,18.1,"15,525",14.6,18%,59:41:00
+647,University of Colorado Denver/Anschutz Medical Campus,United States,23.0–31.2,70.3,67,49.8,12.8,7.2,"15,933",15.9,3%,56:44:00
+648,Comenius University in Bratislava,Slovakia,23.0–31.2,32.7,17.5,42.5,14.5,18.8,"211,424",16.1,3%,48:52:00
+649,University of Córdoba,Spain,23.0–31.2,54.5,20.4,56.2,13.1,17.4,"7,249",6.8,3%,76:24:00
+650,University of Cyprus,Cyprus,23.0–31.2,47.7,48.6,60.7,17.3,10.5,"11,898",18.2,5%,66:34:00
+651,Delhi Technological University,India,23.0–31.2,57.2,17.5,18.4,15.2,12,"45,256",26.1,0%,39 : 61
+652,University of Denver,United States,23.0–31.2,52.9,43.1,36,10.6,15.8,"5,290",19.3,2%,0.806944444
+653,University of Dhaka,Bangladesh,23.0–31.2,68.4,23.4,49.7,9.6,15.6,830,8.1,5%,24 : 76
+654,Diponegoro University,Indonesia,23.0–31.2,18.4,50,34.6,19.2,24.5,"30,190",17.5,9%,62:38:00
+655,Ege University,Turkey,23.0–31.2,46,58.8,30.7,12.5,19.3,"44,786",16.8,0%,62:38:00
+656,Eötvös Loránd University,Hungary,23.0–31.2,52.4,37.7,35.7,12.3,9.2,"39,169",14.1,1%,52:48:00
+657,Federal University of Minas Gerais,Brazil,23.0–31.2,32.1,57.4,29.7,24.3,29,"18,877",10.3,1%,59:41:00
+658,Universidade Federal do Paraná (UFPR),Brazil,23.0–31.2,37.7,79.5,25.6,15.6,19.4,"11,684",22.2,52%,55:45:00
+659,Federal University of Pernambuco,Brazil,23.0–31.2,36.6,78.2,23.3,14.1,17.1,"16,139",12.9,7%,51:49:00
+660,Federal University of Rio de Janeiro,Brazil,23.0–31.2,36.5,42.9,32.6,25.9,29,"23,416",32.4,2%,64:36:00
+661,Federation University Australia,Australia,23.0–31.2,46.3,43.1,85.1,12.8,17.2,"37,465",13.2,7%,58:42:00
+662,University of Foggia,Italy,23.0–31.2,68.5,20.3,28.3,16.8,10.5,"14,270",23.6,19%,57:43:00
+663,Fuzhou University,China,23.0–31.2,62.8,41.5,48.6,9.7,13.9,"54,619",14.5,10%,60:40:00
+664,Gabriele d‘Annunzio University,Italy,23.0–31.2,58.2,40.7,34.5,10.9,15.4,"7,823",14.3,1%,42:58:00
+665,Gdańsk University of Technology,Poland,23.0–31.2,62.1,23.6,39.7,16.7,15.1,"12,531",12.4,17%,66:34:00
+666,University of Genoa,Italy,23.0–31.2,54.6,71.4,35.4,17.5,15.9,"6,353",8.6,23%,25 : 75
+667,University of Girona,Spain,23.0–31.2,46.8,69.8,45.2,14.4,16.7,"36,701",19.4,0%,64:36:00
+668,Guangdong University of Technology,China,23.0–31.2,65.1,33,39.3,9.8,13.4,"12,891",1.7,2%,56:44:00
+669,Hacettepe University,Turkey,23.0–31.2,39.4,18.2,26.1,12.6,20,"38,444",20.1,3%,56:44:00
+670,The Hashemite University,Jordan,23.0–31.2,64.8,28.6,45.6,13.9,8.5,"17,353",17.7,3%,66:34:00
+671,University of Hertfordshire,United Kingdom,23.0–31.2,43.5,17.5,74.2,10.5,13.5,"4,668",28.9,23%,28 : 72
+672,Hungarian University of Agriculture and Life Sciences,Hungary,23.0–31.2,43.4,17.5,63.3,10,17.3,"12,145",26.5,0%,26 : 74
+673,University of Iceland,Iceland,23.0–31.2,47.6,47,37,25.9,13.6,"18,780",15.5,38%,54:46:00
+674,Imam Abdulrahman Bin Faisal University,Saudi Arabia,23.0–31.2,59.1,17.7,67.8,10.1,13.2,"46,958",27,7%,52:48:00
+675,Incheon National University,South Korea,23.0–31.2,40,36.3,44.5,11.5,20.2,"14,410",19.9,26%,58:42:00
+676,"International Islamic University, Islamabad",Pakistan,23.0–31.2,65.4,17.5,50.8,10.5,17,"6,279",8,2%,53:47:00
+677,University of Isfahan,Iran,23.0–31.2,46.8,25.5,31.5,16.1,19.2,"2,687",13,4%,53:47:00
+678,Istanbul University,Turkey,23.0–31.2,48.2,34,31.8,20.5,19.8,"22,059",8.7,4%,90:10:00
+679,ITMO University,,23.0–31.2,56.3,41.8,43.7,17.9,17.1,"2,001",11.7,0%,0.970833333
+680,Jaume I University,Spain,23.0–31.2,57.5,35.4,45.9,15.7,19.4,"2,399",23.1,2%,1.011805556
+681,Jiangnan University,China,23.0–31.2,56.4,86.8,35.3,15.9,9.4,"25,221",25.1,7%,53:47:00
+682,Kangwon National University,South Korea,23.0–31.2,48.4,55.8,33.2,14,15.1,"8,840",8.3,5%,57:43:00
+683,University of Kansas,United States,23.0–31.2,39.8,62.7,57.7,11.7,13.3,"18,562",24.2,15%,37 : 63
+684,Kansas State University,United States,23.0–31.2,44.5,64.4,42.1,18.9,21.1,"34,725",9.6,11%,67:33:00
+685,Kaunas University of Technology,Lithuania,23.0–31.2,46,23.8,37.2,21.6,21.4,"9,636",20,3%,45:55:00
+686,Kazan Federal University,,23.0–31.2,42,22.2,59.4,10.8,30.8,"8,840",14.2,2%,46:54:00
+687,Kharazmi University,Iran,23.0–31.2,41.6,18.3,38.5,9.2,19.7,"35,687",9.5,6%,42:58:00
+688,Khon Kaen University,Thailand,23.0–31.2,41.8,43.2,44,12.4,10.7,"41,858",16.6,27%,56:44:00
+689,KIIT University,India,23.0–31.2,36.7,65,29.7,18.5,26.9,"29,167",25.1,15%,55:45:00
+690,King Faisal University,Saudi Arabia,23.0–31.2,58.4,28.8,73.3,8.1,13.7,"6,762",13,14%,60:40:00
+691,Universiti Kuala Lumpur,Malaysia,23.0–31.2,47.1,42.4,54.8,9.9,21.4,"30,380",13.4,13%,66:34:00
+692,University of KwaZulu-Natal,South Africa,23.0–31.2,37,18.7,35.1,24.8,26.7,"19,826",9.8,3%,60:40:00
+693,University of Lagos,Nigeria,23.0–31.2,57,20.7,32.8,17.9,12.8,"8,572",28.8,22%,35 : 65
+694,University of Las Palmas de Gran Canaria,Spain,23.0–31.2,51.9,17.5,32.2,13.2,18.1,"7,365",8.8,3%,55:45:00
+695,University of Lille,France,23.0–31.2,51.3,67.9,68.2,12.9,17.1,"1,086",1.3,2%,52:48:00
+696,University of Ljubljana,Slovenia,23.0–31.2,55.1,56.9,45,19,14.5,"8,190",27.2,3%,54:46:00
+697,London South Bank University,United Kingdom,23.0–31.2,41.8,68.6,92.7,8.2,12.8,"16,873",10.1,14%,58:42:00
+698,University of Lorraine,France,23.0–31.2,37.2,17.5,58.1,13.9,13.5,"24,796",12.3,9%,49:51:00
+699,"Lumière University, Lyon 2",France,23.0–31.2,34.8,33.9,58.6,14.1,11.4,"7,870",11.3,1%,50:50:00
+700,University of Macerata (UNIMC),Italy,23.0–31.2,36.4,17.6,47.6,13.7,18.6,"13,375",26.2,14%,49:51:00
+701,Makerere University,Uganda,23.0–31.2,34.5,21.2,50.9,20.1,18.9,"5,053",14.5,1%,68:32:00
+702,University of Malaga,Spain,23.0–31.2,45.8,67.7,35.4,11.4,14.1,"12,924",34.6,5%,53:47:00
+703,Manipal Academy of Higher Education,India,23.0–31.2,37.8,66.4,32.5,16.6,18.5,"4,499",13.8,1%,42:58:00
+704,University of Manouba,Tunisia,23.0–31.2,55.5,26.4,39.8,7.4,16.1,"6,459",11.1,18%,46:54:00
+705,Masaryk University,Czech Republic,23.0–31.2,41.9,34.8,59.8,20.4,16.9,"14,733",25.1,20%,50:50:00
+706,University of Memphis,United States,23.0–31.2,53.3,64.7,38.2,13.3,14.1,"13,050",16.8,35%,56:44:00
+707,Mendel University in Brno,Czech Republic,23.0–31.2,30.7,21.6,50.6,20.8,18.4,"61,210",20.2,17%,53:47:00
+708,Mississippi State University,United States,23.0–31.2,64.9,67.4,37.8,13.9,13.6,"29,191",18.2,5%,54:46:00
+709,University of Modena and Reggio Emilia,Italy,23.0–31.2,57.8,71.7,38.8,15.5,17,"21,367",10.5,1%,42:58:00
+710,Montana State University,United States,23.0–31.2,47.9,38.4,34.4,12.7,13.1,"9,053",13.3,10%,43:57:00
+711,University of Murcia,Spain,23.0–31.2,51.3,63.1,34.5,14.4,18.9,"20,844",14.2,2%,46:54:00
+712,National Autonomous University of Mexico,Mexico,23.0–31.2,25.5,42.6,39.9,22.7,23.5,"7,757",27.1,1%,29 : 71
+713,National Chung Hsing University,Taiwan,23.0–31.2,45.1,69.4,44.3,20.4,19.1,"29,195",15.9,19%,58:42:00
+714,National University of Life and Environmental Sciences of Ukraine,Ukraine,23.0–31.2,55.8,17.5,19.4,7.9,15,"161,977",47.5,3%,52:48:00
+715,National Taichung University of Science and Technology,Taiwan,23.0–31.2,50.9,32.7,27.7,7.7,14.4,"10,544",22.4,5%,46:54:00
+716,National Technical University Kharkiv Polytechnic Institute,Ukraine,23.0–31.2,14.4,18.7,34.3,8.9,18.5,"11,456",16.8,8%,46:54:00
+717,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Ukraine,23.0–31.2,23.2,44.4,19.4,12.6,20.6,"9,148",9.7,4%,58:42:00
+718,Nazarbayev University,Kazakhstan,23.0–31.2,48.6,17.5,73.4,17.9,18.9,"17,534",16.1,29%,64:36:00
+719,New Mexico State University (Main campus),United States,23.0–31.2,34.8,50.4,37.1,15.2,15.6,"10,294",8.6,10%,70:30:00
+720,Nicolaus Copernicus University in Toruń,Poland,23.0–31.2,53.7,32.8,30.4,18.1,15.1,"16,098",14.9,21%,56:44:00
+721,Northern Illinois University,United States,23.0–31.2,59.5,56.6,52.9,10.2,14.6,"75,566",17.9,1%,54:46:00
+722,Obafemi Awolowo University,Nigeria,23.0–31.2,43.4,35.2,31.4,13.8,16.9,"25,113",11.8,4%,55:45:00
+723,The Open University,United Kingdom,23.0–31.2,58.3,47,56.2,10.4,15.5,"11,435",28.7,0%,56:44:00
+724,Open University of Catalonia,Spain,23.0–31.2,65,35.8,49,12.7,11.3,"52,678",34.5,2%,24 : 76
+725,Örebro University,Sweden,23.0–31.2,46,18.9,34.3,16.2,16,"29,369",21.8,3%,64:36:00
+726,University of Oviedo,Spain,23.0–31.2,45.5,21.5,34.6,14.2,16.2,"28,184",17,2%,n/a
+727,Pablo de Olavide University,Spain,23.0–31.2,53.6,31.3,38.6,10.5,17.9,"36,281",24,11%,55:45:00
+728,University of Palermo,Italy,23.0–31.2,59.8,35.5,39.3,20.4,15.1,"20,080",15.1,12%,37 : 63
+729,Panjab University,India,23.0–31.2,52.4,64.3,20.9,13.6,23.1,"7,300",11.1,26%,40 : 60
+730,Paris Nanterre University,France,23.0–31.2,30.3,67.3,67.3,14.5,14.6,"8,906",17.9,18%,30 : 70
+731,University of Parma,Italy,23.0–31.2,45.6,39.2,31.6,14.2,10.8,"3,900",13.9,3%,0.929861111
+732,University of Patras,Greece,23.0–31.2,67.8,64.9,32.6,10.6,10,"9,135",21.8,6%,43:57:00
+733,UPES,India,23.0–31.2,47.3,18.4,36.8,12,23.7,"20,103",24.5,83%,43:57:00
+734,Pontifical Catholic University of Peru,Peru,23.0–31.2,40.1,17.5,47.5,7.7,19.7,"26,730",23.2,4%,57:43:00
+735,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,23.0–31.2,54.4,25.2,30.6,13.5,24.3,"8,661",14.7,15%,51:49:00
+736,Pontifícia Universidade Católica do Paraná,Brazil,23.0–31.2,50.9,67.4,27.6,11.6,25,"9,757",14.6,24%,27 : 73
+737,Poznan University of Technology,Poland,23.0–31.2,42.7,45.8,41.3,12.6,17.7,"27,579",20.5,5%,49:51:00
+738,University of Primorska,Slovenia,23.0–31.2,34.3,17.9,52.9,14.5,14.2,"24,760",30.9,0%,42:58:00
+739,Prince of Songkla University,Thailand,23.0–31.2,46.1,23,40.6,10.1,12.4,"40,095",24.3,3%,61:39:00
+740,Public University of Navarre,Spain,23.0–31.2,47,36.1,35.2,9.9,15.4,"6,786",7.6,12%,57:43:00
+741,University of Regina,Canada,23.0–31.2,61.8,19.2,75.7,14.4,8.6,"20,996",17.8,23%,51:49:00
+742,University Rey Juan Carlos,Spain,23.0–31.2,56.5,27.6,33.5,12.1,15.4,"1,157",2.5,2%,52:48:00
+743,Rochester Institute of Technology,United States,23.0–31.2,58.4,17.5,50,15.2,21,"21,250",14,6%,51:49:00
+744,Rovira i Virgili University,Spain,23.0–31.2,55.7,18,49.9,12.4,19.4,"8,969",28.6,8%,44:56:00
+745,Saint Louis University,United States,23.0–31.2,61.7,17.7,62.3,12.9,14.7,"68,390",31.6,8%,65:35:00
+746,Sakarya University,Turkey,23.0–31.2,54.5,31.4,32.4,8.2,15.6,"13,575",14.2,25%,59:41:00
+747,San Diego State University,United States,23.0–31.2,64.8,54,38.3,8,13.5,"28,210",32.1,6%,58:42:00
+748,University of Sannio,Italy,23.0–31.2,48,69.2,30.7,14.6,18,"6,028",6.7,0%,67:33:00
+749,University of Sassari,Italy,23.0–31.2,60.6,18.1,42.1,16.4,11.4,"24,943",25.1,6%,58:42:00
+750,Universitas Sebelas Maret,Indonesia,23.0–31.2,26,49,36.6,18.3,24.7,"13,994",8.7,13%,64:36:00
+751,University of Sfax,Tunisia,23.0–31.2,62.1,35,36.4,10.1,19.1,"9,998",43.1,1%,30 : 70
+752,SGH Warsaw School of Economics,Poland,23.0–31.2,28,18.3,32.5,18.8,32.2,"29,428",30.4,14%,30 : 70
+753,Shantou University,China,23.0–31.2,68.7,20.5,53.9,9.7,9.8,"27,117",12.2,2%,58:42:00
+754,Sheffield Hallam University,United Kingdom,23.0–31.2,51.1,29.3,66.5,11.9,16.9,"18,365",11.1,26%,59:41:00
+755,University of Siena,Italy,23.0–31.2,52.1,69.6,41.6,16.2,15.2,"42,667",15.2,2%,64:36:00
+756,Silesian University of Technology,Poland,23.0–31.2,70.2,19.7,25.9,12.8,15.3,"50,418",17.9,12%,57:43:00
+757,Sogang University,South Korea,23.0–31.2,41.9,59.3,55.6,13.4,20,"14,172",24.7,27%,59:41:00
+758,"Soochow University, China",China,23.0–31.2,58.1,44.1,48.7,11.4,13.7,"7,475",14.7,21%,32 : 68
+759,University of Sousse,Tunisia,23.0–31.2,51,17.5,37.2,8.1,14.7,"8,512",19.5,28%,74:26:00
+760,South China Normal University,China,23.0–31.2,51.4,31,45.2,10.8,15.4,"23,590",21.5,0%,50:50:00
+761,Southern Cross University,Australia,23.0–31.2,48.6,45.2,69.5,18.4,16.7,"12,975",12.6,13%,60:40:00
+762,University of the South Pacific,Fiji,23.0–31.2,66.6,17.5,55.9,11.9,11.4,"21,820",14,32%,58:42:00
+763,SUNY Binghamton University,United States,23.0–31.2,48.1,59.1,54.7,13.4,22.5,"23,492",11.6,17%,64:36:00
+764,Symbiosis International University,India,23.0–31.2,60.4,18.3,35.1,13.2,20.1,"31,340",27.5,7%,56:44:00
+765,Taras Shevchenko National University of Kyiv,Ukraine,23.0–31.2,27.2,18.3,22.5,12,22.5,"2,944",15.4,2%,51:49:00
+766,Technical University of Cartagena,Spain,23.0–31.2,51.4,42.8,48.5,15.6,18.1,"24,713",14.5,9%,62:38:00
+767,Technical University of Košice,Slovakia,23.0–31.2,40,36.7,32.3,21.7,18.2,"5,163",12.1,6%,43:57:00
+768,Technological University Dublin,Ireland,23.0–31.2,33.8,68,54.4,8.4,14.8,"33,663",35.1,2%,37 : 63
+769,Universidade Tecnológica Federal do Paraná (UTFPR),Brazil,23.0–31.2,44.7,67.4,25.7,16.1,11.8,"37,499",13.1,7%,50:50:00
+770,Universiti Teknologi MARA,Malaysia,23.0–31.2,34.6,42,29.3,15.8,26.2,"47,989",15.5,5%,54:46:00
+771,University of Texas at El Paso,United States,23.0–31.2,38.5,67.4,46.4,23.8,16.4,"10,866",36.1,28%,64:36:00
+772,University of Texas Rio Grande Valley,United States,23.0–31.2,57.7,17.8,49.5,7.7,15.4,"51,028",19.8,21%,59:41:00
+773,The University of Texas at San Antonio,United States,23.0–31.2,51.1,67.1,44.3,14.6,13.8,"7,436",8.6,4%,50:50:00
+774,Texas State University,United States,23.0–31.2,50.2,31.5,46.4,11.5,12.3,"11,118",29.6,16%,69:31:00
+775,Texas Tech University,United States,23.0–31.2,49.5,67.5,43.7,18.1,18.3,"18,852",22,11%,50:50:00
+776,Thammasat University,Thailand,23.0–31.2,36.5,65.2,42.4,19.2,19.5,"20,983",27.2,6%,49:51:00
+777,University of Toledo,United States,23.0–31.2,47,69.9,61.5,11.2,14.8,"8,524",9.9,2%,54:46:00
+778,University of Trás-os-Montes and Alto Douro,Portugal,23.0–31.2,56.9,17.5,33.2,22.6,16.9,"39,622",19.6,2%,56:44:00
+779,Universiti Tunku Abdul Rahman (UTAR),Malaysia,23.0–31.2,69.4,29.2,36.7,14.5,13.9,"8,739",12.6,17%,40 : 60
+780,Ulster University,United Kingdom,23.0–31.2,44.4,45,72.5,14.1,12.7,"45,295",21.5,2%,45:55:00
+781,Unisinos University,Brazil,23.0–31.2,40,41.1,22,19.2,22.2,"11,605",6.4,11%,57:43:00
+782,Universiti Tun Hussein Onn Malaysia (UTHM),Malaysia,23.0–31.2,38.8,18.1,65.9,10.1,26,"19,974",13.5,20%,47:53:00
+783,University of Urbino Carlo Bo,Italy,23.0–31.2,56.2,29.4,42.4,18.9,17.5,"33,537",29.5,13%,60:40:00
+784,University of Valladolid,Spain,23.0–31.2,46.7,31.3,36,9.3,16.7,"27,187",24.7,3%,51:49:00
+785,Verona University,Italy,23.0–31.2,64.6,63.9,45.2,16.3,9.9,"9,375",16.9,1%,28 : 72
+786,"Vietnam National University, Hanoi",Vietnam,23.0–31.2,63.5,21.8,49.5,12.6,17.3,"17,871",16.1,10%,52:48:00
+787,University of Vigo,Spain,23.0–31.2,43.3,57,45.7,15.6,18.9,"7,806",11.7,36%,n/a
+788,Vilnius University,Lithuania,23.0–31.2,31.9,36.1,39.6,16.9,22.1,"19,676",9.8,17%,40 : 60
+789,Virginia Commonwealth University,United States,23.0–31.2,44.6,72.3,28.7,18,14.5,"12,415",11,4%,48:52:00
+790,University of Warsaw,Poland,23.0–31.2,37.9,38.7,38.1,22.3,21.9,"17,685",18.8,9%,57:43:00
+791,Wayne State University,United States,23.0–31.2,48.2,47.3,36.3,11.6,12.9,"30,207",8.3,11%,34 : 66
+792,Western Michigan University,United States,23.0–31.2,44.5,35.5,42.3,12.2,14.2,"7,169",11.9,34%,66:34:00
+793,University of Westminster,United Kingdom,23.0–31.2,55.4,38.8,86.1,11.4,14,"21,827",18.2,3%,58:42:00
+794,University of the West of Scotland,United Kingdom,23.0–31.2,51.4,20,82.9,12.6,19.7,"23,510",33.8,6%,61:39:00
+795,West University of Timişoara,Romania,23.0–31.2,54.4,19.2,34.3,9.5,15.4,"12,120",22,20%,63:37:00
+796,William & Mary,United States,23.0–31.2,43.1,17.5,34.6,11.7,26.1,"14,516",33.3,29%,n/a
+797,University of Wolverhampton,United Kingdom,23.0–31.2,40.7,54.4,76.3,10.7,12.1,"14,900",17.2,24%,62:38:00
+798,Wrocław University of Science and Technology,Poland,23.0–31.2,45,18.7,31.4,11.7,15.8,"15,668",39.6,10%,53:47:00
+799,University of Wyoming,United States,23.0–31.2,42.6,41.3,32.1,15.4,19.9,"15,767",19.9,5%,52:48:00
+800,Yarmouk University,Jordan,23.0–31.2,46.9,23.6,36.2,12.5,10.4,"5,073",6,2%,56:44:00
+801,Yuan Ze University,Taiwan,23.0–31.2,51.3,43.4,47.9,16.8,15.3,"70,824",17.5,3%,49:51:00
+802,University of Zagreb,Croatia,23.0–31.2,49.8,17.5,29.3,13.9,12.7,"22,148",68.4,1%,55:45:00
+803,University of Zaragoza,Spain,23.0–31.2,58.1,37.5,31.1,12.7,21.5,"27,826",42.4,0%,45:55:00
+804,ZHAW Zurich University of Applied Sciences,Switzerland,23.0–31.2,51.8,55.1,67.3,13.2,15.5,"1,217",12.1,9%,0.520138889
+805,Zhengzhou University,China,23.0–31.2,79.1,36,33,10.4,10.1,"35,457",20.9,4%,56:44:00
+806,University of A Coruña,Spain,12.6–22.9,34.9,51.3,31.4,11.1,15.2,"425,977",38.4,6%,38 : 62
+807,Akdeniz University,Turkey,12.6–22.9,34.9,25.5,24,14.2,12.2,"28,178",27.7,2%,59:41:00
+808,Al-Balqa Applied University,Jordan,12.6–22.9,44.7,22.1,26.5,8.9,9.4,"15,941",10.2,24%,60:40:00
+809,Alexandru Ioan Cuza University,Romania,12.6–22.9,41.9,17.5,43.9,9.7,9.8,"202,206",28.2,4%,52:48:00
+810,Allameh Tabataba ’i University,Iran,12.6–22.9,33.4,31.1,32,10.3,18.3,"20,428",12.1,2%,40 : 60
+811,Anadolu University,Turkey,12.6–22.9,45.2,20.2,32.8,8.2,16.6,"5,921",13.7,5%,56:44:00
+812,Ankara University,Turkey,12.6–22.9,23.5,17.6,32.2,8.9,19.8,"15,149",15.9,1%,43:57:00
+813,Ariel University,Israel,12.6–22.9,39.5,17.5,24,15.1,11,"17,491",6.5,30%,53:47:00
+814,Instituto Politécnico de Bragança,Portugal,12.6–22.9,20.9,18.8,44.5,10.9,14.2,"49,840",19.7,5%,58:42:00
+815,University of Brawijaya,Indonesia,12.6–22.9,24.2,30.1,24.6,12.1,23.9,"9,682",51,6%,45:55:00
+816,Bucharest University of Economic Studies,Romania,12.6–22.9,35.8,24.8,25.7,12.8,20.6,"27,474",22.9,1%,63:37:00
+817,Budapest University of Technology and Economics,Hungary,12.6–22.9,41.2,18.4,25.3,12.9,10.7,"12,566",15.1,10%,54:46:00
+818,College of Charleston,United States,12.6–22.9,44.5,35.7,26.4,7.9,13.3,"11,493",11.8,8%,60:40:00
+819,Chinese Culture University,Taiwan,12.6–22.9,39.9,39.7,35.1,7.8,10.7,"43,018",15.4,6%,55:45:00
+820,Christ University Bengaluru India,India,12.6–22.9,17.4,18.3,21.7,8.2,12.3,"13,175",29.6,59%,59:41:00
+821,Comillas Pontifical University,Spain,12.6–22.9,38.6,22,46.5,11.7,14.3,"7,861",17,22%,53:47:00
+822,Czech University of Life Sciences Prague (CZU),Czech Republic,12.6–22.9,23.9,53.2,62,11.5,11.4,"93,251",18.9,5%,62:38:00
+823,De La Salle University,Philippines,12.6–22.9,42.5,17.5,36.8,10.6,13.1,"82,124",28.3,1%,50:50:00
+824,Del Rosario University,Colombia,12.6–22.9,20.1,33,56.7,11,17.3,"22,115",60.9,7%,62:38:00
+825,Dokuz Eylül University,Turkey,12.6–22.9,52.8,20.5,25.6,9,11.9,"4,097",18.8,0%,63:37:00
+826,Durban University of Technology,South Africa,12.6–22.9,18.7,17.5,30,7.8,13.7,"9,682",14.2,8%,46:54:00
+827,EAFIT University,Colombia,12.6–22.9,27.4,17.6,41.3,8.6,13,"15,651",18.1,2%,0.847916667
+828,Universidade Estadual de Maringá,Brazil,12.6–22.9,26.2,18,27.6,13.7,16.2,"12,614",22.3,3%,45:55:00
+829,University of Extremadura,Spain,12.6–22.9,38.6,19.3,39.5,9.8,18.4,"15,015",16.8,22%,60:40:00
+830,Universidade Federal do Ceará (UFC),Brazil,12.6–22.9,25.6,31.7,22.6,10.9,15.3,"224,216",36.8,4%,54:46:00
+831,Federal University of Espírito Santo,Brazil,12.6–22.9,22.5,46.3,29.2,14.4,15.7,"19,788",23.2,3%,57:43:00
+832,Federal University of Santa Maria,Brazil,12.6–22.9,40.9,17.5,22.9,8.7,16.8,"9,332",12.8,8%,61:39:00
+833,Federal University of Uberlândia,Brazil,12.6–22.9,24.4,33.9,23.3,10.3,16.4,"2,550",17.2,0%,30 : 70
+834,Federal University of Viçosa,Brazil,12.6–22.9,24.8,30.3,23.3,13.9,21,"22,762",16.3,2%,59:41:00
+835,Feng Chia University,Taiwan,12.6–22.9,26.7,31.2,42.6,12.1,16.6,"17,001",17.4,4%,n/a
+836,Fluminense Federal University,Brazil,12.6–22.9,38.5,21.8,26.4,11,13.9,"34,095",11.5,3%,58:42:00
+837,University of the Free State,South Africa,12.6–22.9,36.6,17.8,55.3,11.5,11.5,"23,491",15.5,6%,49:51:00
+838,University of Gdańsk,Poland,12.6–22.9,25,18.4,22.9,11.9,18.2,"36,630",20.9,15%,57:43:00
+839,Georgia Southern University,United States,12.6–22.9,37.6,53.8,28.7,9.8,9,"32,820",16.1,47%,48:52:00
+840,Harbin Engineering University,China,12.6–22.9,32.4,29.2,26.2,14.6,20.8,"14,999",19.6,23%,52:48:00
+841,Université Hassan II de Casablanca,Morocco,12.6–22.9,17.4,24.8,22.2,7.6,9.3,"11,183",16.5,11%,48:52:00
+842,Hellenic Open University,Greece,12.6–22.9,32.5,17.5,26.5,6.6,15.6,"9,518",20.1,11%,58:42:00
+843,International Hellenic University,Greece,12.6–22.9,32.5,24.7,25.7,9.3,9.1,"17,613",16,2%,50:50:00
+844,Islamic University of Indonesia,Indonesia,12.6–22.9,25.7,19.9,27.1,10.4,17,"22,434",14.4,6%,45:55:00
+845,Kasetsart University,Thailand,12.6–22.9,28.6,37.6,30.6,10.9,13.7,"21,552",35.5,8%,44:56:00
+846,Kuwait University,Kuwait,12.6–22.9,33.8,31.2,43.8,7.9,17.6,"10,990",15.4,7%,69:31:00
+847,University of La Laguna,Spain,12.6–22.9,35.6,34.6,29.6,11.9,18.8,"8,680",20.7,1%,0.315277778
+848,L.N. Gumilyov Eurasian National University,Kazakhstan,12.6–22.9,20,17.5,37.6,9.6,18,"14,746",17.5,13%,100:00:00
+849,University of Lodz,Poland,12.6–22.9,27.9,17.9,28.8,11.4,14.4,"40,998",12.9,1%,53:47:00
+850,Lodz University of Technology,Poland,12.6–22.9,29,69,25,14.7,10.2,"26,327",15.8,0%,51:49:00
+851,Lucian Blaga University of Sibiu,Romania,12.6–22.9,19.1,21.9,28.3,12.1,17.6,"39,961",20.6,5%,37 : 63
+852,Universiti Malaysia Kelantan,Malaysia,12.6–22.9,44.4,18.5,43.1,9.5,12.8,"9,342",16.8,1%,66:34:00
+853,University of Maribor,Slovenia,12.6–22.9,32.7,34.8,34.1,14.7,15.9,"24,191",18.7,10%,64:36:00
+854,Marmara University,Turkey,12.6–22.9,31.9,28.9,26.6,10.5,14.6,"11,292",31.8,1%,63:37:00
+855,Marquette University,United States,12.6–22.9,41.9,53.7,28.6,10.7,11.4,"33,826",36.8,2%,63:37:00
+856,Matej Bel University,Slovakia,12.6–22.9,24.5,18.2,31.2,10.1,16,"3,082",3.8,1%,57:43:00
+857,Metropolitan Autonomous University,Mexico,12.6–22.9,13.3,32.6,27.9,18,13.2,"39,987",16.8,1%,39 : 61
+858,Ming Chuan University,Taiwan,12.6–22.9,47.4,20.3,40.9,10.6,10.3,"14,011",21.1,15%,57:43:00
+859,Mohammed V University of Rabat,Morocco,12.6–22.9,25.6,48,25.8,12.6,17.3,"46,040",18.1,0%,29 : 71
+860,University of Monastir,Tunisia,12.6–22.9,33.4,58.5,35.6,8.5,11.4,"14,612",8.1,9%,37 : 63
+861,Multimedia University,Malaysia,12.6–22.9,29.5,47.8,34,12.5,20.5,"2,203",17.9,0%,0.806944444
+862,National University of Colombia,Colombia,12.6–22.9,32.5,55.7,35.4,11.2,11.8,"1,782",15.1,1%,26 : 74
+863,National University of Distance Education (UNED),Spain,12.6–22.9,34.3,51.5,28.9,10.4,13.3,"5,172",14,34%,63:37:00
+864,National Kaohsiung University of Science and Technology,Taiwan,12.6–22.9,41.1,61.5,27,14.2,9.8,"32,168",39.6,3%,69:31:00
+865,National Taipei University,Taiwan,12.6–22.9,30.3,18.2,27.8,15.3,16.9,"9,374",24.9,17%,52:48:00
+866,University of Nigeria Nsukka,Nigeria,12.6–22.9,30.5,19.9,26.7,10.4,24.2,"35,698",28.5,0%,46:54:00
+867,Nova Southeastern University,United States,12.6–22.9,37.7,2.2,37.7,11.9,14.6,"10,536",13.4,3%,52:48:00
+868,Universidade Nove de Julho (Uninove),Brazil,12.6–22.9,14.5,24.2,22.3,6.9,13.4,"10,814",15,22%,34 : 66
+869,University of Novi Sad,Serbia,12.6–22.9,41.7,21.3,30.6,12.7,12.4,"8,017",7.9,33%,66:34:00
+870,Oakland University,United States,12.6–22.9,26.7,46.6,41.2,9.8,10.5,"13,767",16.4,9%,57:43:00
+871,Ohio University (Main campus),United States,12.6–22.9,31.8,33.2,30.7,12.9,21.5,"5,980",4.6,3%,55:45:00
+872,Universitas Padjadjaran,Indonesia,12.6–22.9,26,33.1,31.1,14.4,25.4,"19,927",13.1,7%,51:49:00
+873,Pamukkale University,Turkey,12.6–22.9,27.2,17.5,23,8.7,12.7,"9,698",14,%,63:37:00
+874,Universidad Panamericana (UP),Mexico,12.6–22.9,22.7,17.6,45.9,10.2,21.6,"22,673",10.4,29%,66:34:00
+875,University of Pécs,Hungary,12.6–22.9,24.7,20.6,33.6,18.5,16.2,"33,636",10.1,8%,37 : 63
+876,University of the Peloponnese,Greece,12.6–22.9,43.7,17.5,24.1,13,9.8,"5,226",3.4,2%,n/a
+877,University of the Philippines,Philippines,12.6–22.9,26.8,18.6,31.6,13,15.6,"33,234",14.6,2%,32 : 68
+878,Polytechnic Institute of Porto,Portugal,12.6–22.9,43.9,18.1,26.6,10.1,12.1,"27,805",13.1,2%,67:33:00
+879,Pondicherry University,India,12.6–22.9,40.8,17.8,20.4,8.7,21.9,"39,389",8.3,7%,55:45:00
+880,Pontifical Javeriana University,Colombia,12.6–22.9,20.7,2.2,44.9,10.5,13.1,"15,116",19.8,2%,46:54:00
+881,Prague University of Economics and Business,Czech Republic,12.6–22.9,32.6,19.7,42.1,12.5,18.9,"14,975",19.4,43%,58:42:00
+882,University of Rennes 1,France,12.6–22.9,24.3,38.4,60.6,9.7,11.6,"17,801",14.5,2%,36 : 64
+883,University of Rijeka,Croatia,12.6–22.9,35.1,24,25.6,10.6,13.6,"15,477",10.3,8%,36 : 64
+884,Ritsumeikan University,Japan,12.6–22.9,24.7,21.8,42.7,9.9,14.4,"5,062",7.6,2%,n/a
+885,Russian Presidential Academy of National Economy and Public Administration,,12.6–22.9,18.6,24.6,22.7,18.7,29.9,"24,680",15.2,15%,76:24:00
+886,University of Seoul,South Korea,12.6–22.9,23.8,39.9,33.3,17.8,17.7,"18,892",20.2,13%,47:53:00
+887,Sidi Mohamed Ben Abdellah University,Morocco,12.6–22.9,38.6,17.5,22.8,7.9,13.8,"27,149",14.8,2%,37 : 63
+888,Soongsil University,South Korea,12.6–22.9,19.3,18.5,43.2,9.3,21.2,"8,365",25.8,21%,55:45:00
+889,University of South Africa,South Africa,12.6–22.9,41.7,30.3,30.6,10.1,10.3,"18,270",12.8,5%,58:42:00
+890,Southern Federal University,,12.6–22.9,29.9,18.1,40.2,9.2,25.4,"11,877",32.7,7%,68:32:00
+891,University of Split,Croatia,12.6–22.9,43.6,18.1,28.5,10.9,11.1,"18,945",20.3,13%,54:46:00
+892,State University of Malang,Indonesia,12.6–22.9,18.9,17.5,30.6,8.1,13.2,"6,167",8.6,22%,75:25:00
+893,University of Szeged,Hungary,12.6–22.9,26.9,19.3,37.3,11.4,14.5,"37,615",13.1,8%,60:40:00
+894,Tamkang University,Taiwan,12.6–22.9,33.4,29.9,35.3,13,13.3,"9,164",15.4,10%,59:41:00
+895,Technical University of Liberec,Czech Republic,12.6–22.9,20.7,46,27.7,17.2,11.1,"33,469",14.8,6%,24 : 76
+896,Universiti Teknikal Malaysia Melaka,Malaysia,12.6–22.9,21.7,20.2,27.7,13.1,11.1,"13,802",21,4%,73:27:00
+897,Institut Teknologi Sepuluh Nopember,Indonesia,12.6–22.9,36.4,21.1,44.3,10,15.2,"28,477",9,5%,64:36:00
+898,Telkom University,Indonesia,12.6–22.9,27.8,27.9,32.2,10.6,13.5,"31,233",21,3%,51:49:00
+899,University of Trieste,Italy,12.6–22.9,43.1,38.3,38,11.9,8.1,"8,140",13.3,7%,48:52:00
+900,University of Tunis,Tunisia,12.6–22.9,41.8,17.5,40.6,7.5,16.4,"9,687",10.7,13%,60:40:00
+901,Universiti Malaysia Sabah (UMS),Malaysia,12.6–22.9,28.7,33.3,34.3,12.2,12.5,"23,002",9,12%,49:51:00
+902,Instituto Politécnico de Viana do Castelo,Portugal,12.6–22.9,23.7,2.2,30.1,7.7,16.8,"10,540",12,3%,57:43:00
+903,Vietnam National University (Ho Chi Minh City),Vietnam,12.6–22.9,33.5,17.5,30.5,12.3,13.3,"32,271",18.9,23%,62:38:00
+904,VSB - Technical University of Ostrava,Czech Republic,12.6–22.9,36.7,18.7,42.8,12.8,14.8,"6,344",5.6,16%,65:35:00
+905,University of Warmia and Mazury in Olsztyn,Poland,12.6–22.9,33.8,18.2,22.9,9.4,8.6,"16,520",14.7,5%,60:40:00
+906,Warsaw University of Life Sciences – SGGW,Poland,12.6–22.9,33.7,18.1,38.2,9.2,12.8,"19,922",19.6,16%,55:45:00
+907,Warsaw University of Technology,Poland,12.6–22.9,28.1,61,22.7,12.7,15.3,"21,810",15.2,3%,52:48:00
+908,University of West Attica,Greece,12.6–22.9,46.1,31,23.1,8.8,8.8,"6,365",15.8,5%,58:42:00
+909,The University of the West Indies,Jamaica,12.6–22.9,27.6,52,36.3,8.5,14.5,"14,094",16,3%,47:53:00
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
